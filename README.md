@@ -69,6 +69,8 @@ Real code and product interfaces, with **synthetic data and declared limits**. T
 
 The case studies separate **implemented features**, **synthetic demonstrations** and **measurements still to be performed**.
 
+**Portfolio website:** [View the static website source](docs/index.html) · [Activate GitHub Pages and finish profile settings](docs/PROFILE_SETTINGS.md). The hosted website link will be added after Pages is enabled and verified.
+
 ## How I build
 
 **Product ownership → architecture → AI-assisted implementation → human review → automated testing → deployment → measurement.**
