@@ -6,7 +6,7 @@
 
 I turn AI ideas into working software: product strategy, system design, engineering, evaluation and deployment. My focus is **agentic platforms**, **trustworthy AI**, **digital health**, and **education**. I build hands-on with AI coding tools while keeping architectural decisions, review and quality checks under human control.
 
-[**My work**](#agentic-ai-platforms) · [**Healthcare & education**](#healthcare--education) · [**Engineering approach**](#how-i-build) · [**Technical case studies**](#technical-case-studies) · [**All repositories**](https://github.com/yassineaqejjaj?tab=repositories)
+[**My work**](#agentic-ai-platforms) · [**Healthcare & education**](#healthcare--education) · [**Engineering approach**](#how-i-build) · [**Agentic SDLC framework**](https://github.com/yassineaqejjaj/agentic-sdlc) · [**Technical case studies**](#technical-case-studies) · [**All repositories**](https://github.com/yassineaqejjaj?tab=repositories)
 
 ## Agentic AI platforms
 
@@ -105,6 +105,19 @@ AI coding agents write a large share of the code in my projects. They do not dec
 | **6. Release gate** | Explicit criteria must pass before release: tests green, known limitations documented, rollback path identified. | Me |
 | **7. Deploy** | CI/CD, preview deployments and a versioned release record. | Automated |
 | **8. Measure** | Usage, quality, cost and incidents. What I learn becomes the next intent. | Me |
+
+### Earned autonomy
+
+The organizing idea: **an agent earns autonomy where automated checks can prove its work, and loses it where they cannot.** Autonomy is set per stage, not globally.
+
+| Level | The agent may | A human must |
+|---|---|---|
+| **L0 Suggest** | Propose options and drafts | Decide and write the change |
+| **L1 Assist** | Write code in small steps | Review every diff |
+| **L2 Delegate** | Complete a scoped task and open a pull request | Review it and pass the gates |
+| **L3 Supervise** | Verify and merge to a non-production branch | Audit samples and approve the release |
+
+Irreversible actions and sensitive data are capped at L1, and any incident drops a stage by one level. The full framework, stage contracts, agent-specific risks, metrics and ready-to-use templates (`SPEC.md`, `AGENTS.md`, review checklist, release record) are in **[agentic-sdlc](https://github.com/yassineaqejjaj/agentic-sdlc)**. It is a working v0.1, not an independently validated standard.
 
 ### Principles
 
