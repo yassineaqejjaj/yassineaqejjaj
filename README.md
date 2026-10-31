@@ -6,7 +6,7 @@
 
 I turn AI ideas into working software: product strategy, system design, engineering, evaluation and deployment. My focus is **agentic platforms**, **trustworthy AI**, **digital health**, and **education**. I build hands-on with AI coding tools while keeping architectural decisions, review and quality checks under human control.
 
-[**My work**](#agentic-ai-platforms) · [**Healthcare & education**](#healthcare--education) · [**Engineering approach**](#how-i-build) · [**Agentic SDLC framework**](https://github.com/yassineaqejjaj/agentic-sdlc) · [**Books**](#the-books) · [**Technical case studies**](#technical-case-studies) · [**All repositories**](https://github.com/yassineaqejjaj?tab=repositories)
+[**Portfolio · iaseen.com**](https://iaseen.com) · [**My work**](#agentic-ai-platforms) · [**Healthcare & education**](#healthcare--education) · [**Engineering approach**](#how-i-build) · [**Agentic SDLC framework**](https://github.com/yassineaqejjaj/agentic-sdlc) · [**Books**](#the-books) · [**Technical case studies**](#technical-case-studies) · [**All repositories**](https://github.com/yassineaqejjaj?tab=repositories)
 
 ## Start here
 
@@ -108,7 +108,9 @@ Real code and product interfaces, with **synthetic data and declared limits**. T
 
 The case studies separate **implemented features**, **synthetic demonstrations** and **measurements still to be performed**.
 
-**Portfolio website:** [View the static website source](docs/index.html) · [Activate GitHub Pages and finish profile settings](docs/PROFILE_SETTINGS.md). The hosted website link will be added after Pages is enabled and verified.
+**Portfolio website:** [iaseen.com](https://iaseen.com) · [Source code](https://github.com/yassineaqejjaj/iaseen)
+
+My personal AI portfolio brings together my experience, client case studies, AI products, books and a printable CV.
 
 ## How I build
 
