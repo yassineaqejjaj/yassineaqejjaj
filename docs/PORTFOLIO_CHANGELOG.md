@@ -50,7 +50,8 @@ All project pull requests change **only `README.md`**, by addition: an "At a gla
 
 ## Not done
 
-- Fixing CI on Fencing Intelligence and TRAIL Academy (code change).
+- CI on TRAIL Academy (not investigated).
+- Fencing Intelligence CI is fixed in [pull request #4](https://github.com/yassineaqejjaj/fencing-intelligence/pull/4), not merged. It updates Next.js to 16.4.1 for critical advisories, so it changes the deployed app and deserves a review.
 - Real screenshots for ORBIT, FORGE, TrustRail, Fencing, APEX.
 - Choosing licences; confirming the JWT-shaped test fixtures in NOVA and ORBIT.
 - GitHub display name, pinning, social preview upload, release `v0.1.0`.

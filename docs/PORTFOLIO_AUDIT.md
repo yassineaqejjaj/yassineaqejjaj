@@ -66,7 +66,7 @@ Method: README and metadata read through the GitHub API and local clones; every 
 | 2 | Add topics and descriptions | Done earlier |
 | 3 | Add cross-links between projects and the framework | Done earlier |
 | 4 | Harmonize project READMEs without removing existing content | Done on branches, pull requests pending review |
-| 5 | Fix failing CI on Fencing Intelligence and TRAIL Academy | **Not done**: this changes code, outside the scope of documentation work |
+| 5 | Fix failing CI on Fencing Intelligence and TRAIL Academy | Fencing Intelligence: fixed in [pull request #4](https://github.com/yassineaqejjaj/fencing-intelligence/pull/4), CI green on the branch, includes a security patch of Next.js. TRAIL Academy: **not done** |
 | 6 | Add real screenshots for ORBIT, FORGE, TrustRail, Fencing, APEX | **Not done**: requires running or capturing real interfaces |
 | 7 | Choose licences for the nine unlicensed repositories | Owner decision |
 | 8 | Confirm the JWT-shaped fixtures and regenerate them at test time | Owner decision |
