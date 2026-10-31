@@ -6,7 +6,28 @@
 
 I turn AI ideas into working software: product strategy, system design, engineering, evaluation and deployment. My focus is **agentic platforms**, **trustworthy AI**, **digital health**, and **education**. I build hands-on with AI coding tools while keeping architectural decisions, review and quality checks under human control.
 
-[**My work**](#agentic-ai-platforms) · [**Healthcare & education**](#healthcare--education) · [**Engineering approach**](#how-i-build) · [**Agentic SDLC framework**](https://github.com/yassineaqejjaj/agentic-sdlc) · [**Technical case studies**](#technical-case-studies) · [**All repositories**](https://github.com/yassineaqejjaj?tab=repositories)
+[**My work**](#agentic-ai-platforms) · [**Healthcare & education**](#healthcare--education) · [**Engineering approach**](#how-i-build) · [**Agentic SDLC framework**](https://github.com/yassineaqejjaj/agentic-sdlc) · [**Books**](#the-books) · [**Technical case studies**](#technical-case-studies) · [**All repositories**](https://github.com/yassineaqejjaj?tab=repositories)
+
+## Start here
+
+| If you are... | Go to |
+|---|---|
+| Leading an AI or engineering team | [Agentic SDLC framework](https://github.com/yassineaqejjaj/agentic-sdlc) · [How I build](#how-i-build) |
+| Working in healthcare or education | [Healthcare & education](#healthcare--education) · [The books](#the-books) |
+| Looking for agent infrastructure | [NOVA, ORBIT, FORGE and TrustRail](#agentic-ai-platforms) |
+
+## The books
+
+Two books on leading AI adoption, each paired with working code in this profile.
+
+<table>
+<tr>
+<td width="50%"><a href="https://www.amazon.fr/dp/B0CN5PG7LT"><img alt="Leading with AI: Embracing the Future of Education" src="docs/assets/book-education.svg"/></a><br/><strong>Education.</strong> <a href="https://www.amazon.fr/dp/B0CN5PG7LT">Leading with AI: Embracing the Future of Education</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/ClassMind">ClassMind</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a> · <a href="https://github.com/yassineaqejjaj/TRAIL-Academy">TRAIL Academy</a></td>
+<td width="50%"><a href="https://www.amazon.fr/dp/B0CVB848M6"><img alt="Leading with AI: A Blueprint for AI-Enhanced Healthcare" src="docs/assets/book-healthcare.svg"/></a><br/><strong>Healthcare.</strong> <a href="https://www.amazon.fr/dp/B0CVB848M6">Leading with AI: A Blueprint for AI-Enhanced Healthcare</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/medguard-ai">MedGuard AI</a> · <a href="https://github.com/yassineaqejjaj/CarePilot">CarePilot</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a></td>
+</tr>
+</table>
+
+The books set out the leadership view. The repositories are prototypes that test it, with synthetic data and declared limits.
 
 ## Agentic AI platforms
 
