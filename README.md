@@ -55,7 +55,7 @@ Real code and product interfaces, with **synthetic data and declared limits**. T
 <table>
 <tr><td width="50%"><a href="https://github.com/yassineaqejjaj/medguard-ai"><img alt="MedGuard AI" src="docs/assets/medguard-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/SimuLearn"><img alt="SimuLearn" src="docs/assets/simulearn-cover.svg"/></a></td></tr>
 <tr><td width="50%"><a href="https://github.com/yassineaqejjaj/ClassMind"><img alt="ClassMind" src="docs/assets/classmind-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/CarePilot"><img alt="CarePilot" src="docs/assets/carepilot-cover.svg"/></a></td></tr>
-<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/yassineaqejjaj"><img alt="Vita (private)" src="docs/assets/vita-cover.svg"/></a></td></tr>
+<tr><td width="50%"><img alt="Vita (private)" src="docs/assets/vita-cover.svg"/></td></tr>
 </table>
 
 | Project | What it does | Evidence / status |
