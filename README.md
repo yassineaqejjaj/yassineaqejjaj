@@ -8,7 +8,7 @@ I turn AI ideas into working software: product strategy, system design, engineer
 
 ## Agentic AI platforms
 
-An interconnected set of tools. **NOVA acts. ORBIT supplies governed context. FORGE evaluates.** Each repository stands on its own, with documented interfaces and limitations.
+An interconnected set of tools. **NOVA acts. ORBIT supplies governed context. FORGE evaluates. TrustRail controls what agents are allowed to do.** Each repository stands on its own, with documented interfaces and limitations.
 
 <table>
 <tr><td width="50%">
@@ -38,9 +38,11 @@ ORBIT → supplies governed context
   ↓
 FORGE → evaluates and compares</pre>
 <p>Integrations and production availability vary by version. See each repository's status, setup and test reports before relying on a capability.</p>
-<p><strong>Core tools:</strong> Python, FastAPI, LangGraph, React/TypeScript, PostgreSQL, Docker, OpenTelemetry and GitHub Actions.</p>
+<p><strong>Core tools:</strong> Python, FastAPI, LangGraph, React/TypeScript, Next.js, Fastify, zod, PostgreSQL, Docker, OpenTelemetry and GitHub Actions.</p>
 </td></tr>
 </table>
+
+**[TrustRail](https://github.com/yassineaqejjaj/TrustRail) — Control over agent actions.** Defines what an AI agent may do on behalf of a person or company (grants, limits, human approvals) and records verifiable receipts. Two use cases on synthetic sandboxes (support refunds, B2B SaaS subscriptions); no real money moves. [Web preview](https://trustrail-mu.vercel.app) · [Build status](https://github.com/yassineaqejjaj/TrustRail/blob/main/docs/BUILD_STATUS.md)
 
 ## Healthcare & education
 
@@ -50,6 +52,7 @@ Real code and product interfaces, with **synthetic data and declared limits**. T
 |---|---|---|
 | **[MedGuard AI](https://github.com/yassineaqejjaj/medguard-ai)** | Evaluates healthcare AI applications, records human review and blocks failed release criteria. | [Screenshots & synthetic test workflow](https://github.com/yassineaqejjaj/medguard-ai#see-it-work) · MVP |
 | **[SimuLearn](https://github.com/yassineaqejjaj/SimuLearn)** | Patient conversation practice and cited skills feedback for healthcare trainees. | [Product screens](https://github.com/yassineaqejjaj/SimuLearn#23-parcours-apprenant) · Mock-mode MVP; live integrations not yet validated |
+| **Vita** | AI wellness and prevention coach for iOS and Android: weekly plans from phone and wearable data, with safety guardrails. | Private repository · Complete prototype, not yet launched; not a medical device |
 | **[ClassMind](https://github.com/yassineaqejjaj/ClassMind)** | Teacher-reviewed learning analytics and AI-supported mathematics exercises. | [Product screens](https://github.com/yassineaqejjaj/ClassMind#captures-décran) · French collège MVP, fictitious data |
 | **[CarePilot](https://github.com/yassineaqejjaj/CarePilot)** | Administrative patient-journey coordination with suggested actions awaiting human approval. | [Product screens](https://github.com/yassineaqejjaj/CarePilot#the-screens) · Local demo only |
 
