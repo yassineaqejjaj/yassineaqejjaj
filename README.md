@@ -91,12 +91,32 @@ The case studies separate **implemented features**, **synthetic demonstrations**
 
 ## How I build
 
-**Product ownership → architecture → AI-assisted implementation → human review → automated testing → deployment → measurement.**
+AI coding agents write a large share of the code in my projects. They do not decide what is built, what is accepted or what ships. Every project follows the same loop, with human control points where a mistake would be expensive.
 
-I use tools such as Claude Code to implement full-stack products, but treat AI output as a draft that needs explicit acceptance criteria, security review, tests, and a verifiable release record. My interests include agentic applications, context engineering, evaluation, developer productivity and the operating model for AI-enabled teams.
+<p align="center"><img alt="Agentic development lifecycle: intent, architecture, agent build, human review, verify, release gate, deploy, measure, with a feedback loop" src="docs/assets/agentic-lifecycle.svg"/></p>
 
-I prefer a clear list of known limitations and a reproducible test over an impressive claim without evidence.
+| Stage | What happens | Who decides |
+|---|---|---|
+| **1. Intent** | Problem, users and written acceptance criteria before any code. Non-goals are listed too. | Me |
+| **2. Architecture** | Product spec, module boundaries, data model, risks and decision records. Agents can propose; I choose. | Me |
+| **3. Agent build** | Claude Code and similar tools implement in small, reviewable steps against the spec and the tests. | Agent, within the spec |
+| **4. Human review** | I read the diff, check security and data handling, and reject what I cannot explain. AI output is a draft, never a result. | Me |
+| **5. Verify** | Unit and integration tests, end-to-end checks, and for agent features: scenarios, traces and regression comparisons (the role FORGE plays). | Automated, then me |
+| **6. Release gate** | Explicit criteria must pass before release: tests green, known limitations documented, rollback path identified. | Me |
+| **7. Deploy** | CI/CD, preview deployments and a versioned release record. | Automated |
+| **8. Measure** | Usage, quality, cost and incidents. What I learn becomes the next intent. | Me |
 
----
+### Principles
 
-**Browse the code:** [All public repositories](https://github.com/yassineaqejjaj?tab=repositories) · **Project maturity:** public demos and source repositories do not imply enterprise production validation.
+- **Specification first.** Acceptance criteria and a written spec come before implementation, and the spec is what the agent is held to.
+- **Small steps.** Short, reviewable changes beat large generated drops that nobody can verify.
+- **Evidence over claims.** A reproducible test or a recorded evaluation counts. A confident description does not.
+- **Honest status.** Every repository states what is implemented, what is a synthetic demonstration and what is still unmeasured.
+- **Safety by design in health and education.** Synthetic data, declared limits, human approval on consequential actions, and no medical-device claims.
+- **Context is engineered.** Governed, cited and permission-aware context (the role ORBIT plays) is treated as part of the system, not as an afterthought.
+
+### Where my own tools fit
+
+NOVA orchestrates the plan and execution, ORBIT supplies governed context, FORGE evaluates results and TrustRail controls what agents are allowed to do. They are my attempt to make this lifecycle repeatable rather than ad hoc.
+
+My interests: agentic applications, context engineering, evaluation, developer productivity and the operating model of AI-enabled teams.
