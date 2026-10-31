@@ -2,74 +2,107 @@
 
 # Yassine Aqejjaj
 
-**Head of AI · Agentic Platform Architect · AI Product Builder**
+**Head of AI | Agentic Platform Architect | AI Product Builder**
 
-I turn AI ideas into working software: product strategy, system design, engineering, evaluation and deployment. My focus is **agentic platforms**, **trustworthy AI**, **digital health**, and **education**. I build hands-on with AI coding tools while keeping architectural decisions, review and quality checks under human control.
+**From AI Strategy to Working Products.**
 
-[**My work**](#agentic-ai-platforms) · [**Healthcare & education**](#healthcare--education) · [**Engineering approach**](#how-i-build) · [**Agentic SDLC framework**](https://github.com/yassineaqejjaj/agentic-sdlc) · [**Books**](#the-books) · [**Technical case studies**](#technical-case-studies) · [**All repositories**](https://github.com/yassineaqejjaj?tab=repositories)
+Building AI agents, governed context systems, evaluation platforms and real-world AI products.
 
-## Start here
+[**Featured projects**](#featured-projects) · [**Ecosystem**](#agentic-ai-ecosystem) · [**How I build**](#how-i-build) · [**Evidence**](#engineering-evidence) · [**Books**](#the-books) · [**Agentic SDLC**](https://github.com/yassineaqejjaj/agentic-sdlc) · [**LinkedIn**](https://www.linkedin.com/in/yassine-aqejjaj)
 
-| If you are... | Go to |
-|---|---|
-| Leading an AI or engineering team | [Agentic SDLC framework](https://github.com/yassineaqejjaj/agentic-sdlc) · [How I build](#how-i-build) |
-| Working in healthcare or education | [Healthcare & education](#healthcare--education) · [The books](#the-books) |
-| Looking for agent infrastructure | [NOVA, ORBIT, FORGE and TrustRail](#agentic-ai-platforms) |
+## About
 
-## The books
+I am a Head of AI. I work on AI strategy and transformation, and I build the products that strategy implies. I am not a developer by training: my background is product, strategy and leading teams.
 
-Two books on leading AI adoption, each paired with working code in this profile.
+My approach combines product thinking, architecture and hands-on construction. I use AI coding tools such as Claude Code to implement, and I keep problem definition, architecture, review and release decisions under human control. My focus is trustworthy agent platforms and how organizations adopt them, with healthcare and education as the main fields.
+
+## Featured projects
+
+Six products that take AI from strategy to something that runs. Statuses are quoted from each repository, not upgraded.
 
 <table>
 <tr>
-<td width="50%"><a href="https://www.amazon.fr/dp/B0CN5PG7LT"><img alt="Leading with AI: Embracing the Future of Education" src="docs/assets/book-education.svg"/></a><br/><strong>Education.</strong> <a href="https://www.amazon.fr/dp/B0CN5PG7LT">Leading with AI: Embracing the Future of Education</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/ClassMind">ClassMind</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a> · <a href="https://github.com/yassineaqejjaj/TRAIL-Academy">TRAIL Academy</a></td>
-<td width="50%"><a href="https://www.amazon.fr/dp/B0CVB848M6"><img alt="Leading with AI: A Blueprint for AI-Enhanced Healthcare" src="docs/assets/book-healthcare.svg"/></a><br/><strong>Healthcare.</strong> <a href="https://www.amazon.fr/dp/B0CVB848M6">Leading with AI: A Blueprint for AI-Enhanced Healthcare</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/medguard-ai">MedGuard AI</a> · <a href="https://github.com/yassineaqejjaj/CarePilot">CarePilot</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a></td>
+<td width="50%" valign="top">
+<a href="https://github.com/yassineaqejjaj/NOVA"><img alt="NOVA cover" src="https://raw.githubusercontent.com/yassineaqejjaj/NOVA/main/docs/assets/github-cover.svg"/></a>
+<p><strong>NOVA</strong>: Agent orchestration.</p>
+<p><strong>Problem.</strong> Teams need AI that delivers reviewable work, not only chat answers.</p>
+<p><strong>Verified features.</strong> Intent, planning, specialist agents, approvals, versioned deliverables; an engineering flow from issue to pull request.</p>
+<p><strong>Stack.</strong> Python, FastAPI, LangGraph, Celery, PostgreSQL, Next.js</p>
+<p><strong>Status.</strong> Public beta (per the repository).</p>
+<p><a href="https://nova-six-orcin-96.vercel.app">Demo</a> · <a href="https://github.com/yassineaqejjaj/NOVA">Source</a> · <a href="https://github.com/yassineaqejjaj/NOVA/blob/main/docs/ARCHITECTURE.md">Architecture</a> · <a href="https://github.com/yassineaqejjaj/NOVA/blob/main/docs/STATUS.md">Status matrix</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/yassineaqejjaj/ORBIT"><img alt="ORBIT (Nova Context) cover" src="https://raw.githubusercontent.com/yassineaqejjaj/ORBIT/main/docs/assets/github-cover.svg"/></a>
+<p><strong>ORBIT (Nova Context)</strong>: Governed context and memory.</p>
+<p><strong>Problem.</strong> Agents need context that is fresh, cited and respects who may see what.</p>
+<p><strong>Verified features.</strong> Multi-source ingestion, versioned memory with review, permission-aware context assembly with citations, REST API and MCP server.</p>
+<p><strong>Stack.</strong> Python, FastAPI, PostgreSQL, Next.js</p>
+<p><strong>Status.</strong> Public beta, not validated for production use (per the repository).</p>
+<p><a href="https://orbit-virid-psi-70.vercel.app">Demo</a> · <a href="https://github.com/yassineaqejjaj/ORBIT">Source</a> · <a href="https://github.com/yassineaqejjaj/ORBIT/blob/main/docs/ARCHITECTURE.md">Architecture</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/yassineaqejjaj/FORGE"><img alt="FORGE (Nova Evals) cover" src="https://raw.githubusercontent.com/yassineaqejjaj/FORGE/main/docs/assets/github-cover.svg"/></a>
+<p><strong>FORGE (Nova Evals)</strong>: Agent evaluation and reliability.</p>
+<p><strong>Problem.</strong> Is the new version of an agent really better, on which scenarios, at what cost?</p>
+<p><strong>Verified features.</strong> Scenarios, traces, judges, human review, baseline-versus-candidate comparison and release gates.</p>
+<p><strong>Stack.</strong> Python, FastAPI, PostgreSQL, Next.js, OpenTelemetry</p>
+<p><strong>Status.</strong> Public beta; results depend on the configured scenarios (per the repository).</p>
+<p><a href="https://forge-pied-rho.vercel.app">Demo</a> · <a href="https://github.com/yassineaqejjaj/FORGE">Source</a> · <a href="https://github.com/yassineaqejjaj/FORGE/blob/main/docs/ARCHITECTURE.md">Architecture</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/yassineaqejjaj/TrustRail"><img alt="TrustRail cover" src="docs/assets/trustrail-cover.svg"/></a>
+<p><strong>TrustRail</strong>: Agent authorization and action governance.</p>
+<p><strong>Problem.</strong> Companies cannot safely let agents act without limits, approvals and evidence.</p>
+<p><strong>Verified features.</strong> Delegated grants, deterministic policies, human approval queue, signed receipts, TypeScript and Python SDKs, MCP adapter.</p>
+<p><strong>Stack.</strong> TypeScript, Fastify, Next.js, PostgreSQL, Python SDK</p>
+<p><strong>Status.</strong> Prototype; synthetic sandboxes, no real money moves.</p>
+<p><a href="https://trustrail-mu.vercel.app">Demo</a> · <a href="https://github.com/yassineaqejjaj/TrustRail">Source</a> · <a href="https://github.com/yassineaqejjaj/TrustRail/blob/main/docs/ARCHITECTURE.md">Architecture</a> · <a href="https://github.com/yassineaqejjaj/TrustRail/blob/main/docs/BUILD_STATUS.md">Build status</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/yassineaqejjaj/TRAIL-Academy"><img alt="TRAIL Academy cover" src="https://raw.githubusercontent.com/yassineaqejjaj/TRAIL-Academy/main/docs/assets/github-cover.svg"/></a>
+<p><strong>TRAIL Academy</strong>: AI education platform.</p>
+<p><strong>Problem.</strong> Professionals need structured, applied training to lead with AI.</p>
+<p><strong>Verified features.</strong> Modules, quizzes, assessments, enterprise paths; Stripe checkout validated in test mode.</p>
+<p><strong>Stack.</strong> Next.js 16, React 19, TypeScript, PostgreSQL</p>
+<p><strong>Status.</strong> Live in test mode; real payments are not open and no video has been uploaded yet (per the repository).</p>
+<p><a href="https://trailacademy.fr">Site</a> · <a href="https://github.com/yassineaqejjaj/TRAIL-Academy">Source</a> · <a href="https://github.com/yassineaqejjaj/TRAIL-Academy/blob/main/ARCHITECTURE.md">Architecture</a> · <a href="https://github.com/yassineaqejjaj/TRAIL-Academy/blob/main/TESTING.md">Testing</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/yassineaqejjaj/CarePilot"><img alt="M3aya Santé (repository: CarePilot) cover" src="docs/assets/carepilot-cover.svg"/></a>
+<p><strong>M3aya Santé (repository: CarePilot)</strong>: Patient-journey coordination.</p>
+<p><strong>Problem.</strong> Clinics lose time coordinating administrative steps across a patient's care journey.</p>
+<p><strong>Verified features.</strong> Journey cockpit, validation queue, journey designer, analytics; suggested actions wait for human approval.</p>
+<p><strong>Stack.</strong> See the repository README</p>
+<p><strong>Status.</strong> MVP with fictional data; not for use with real patients (per the repository).</p>
+<p><a href="https://carepilot-maroc.vercel.app">Demo</a> · <a href="https://github.com/yassineaqejjaj/CarePilot">Source</a> · <a href="https://github.com/yassineaqejjaj/CarePilot#remaining-work-before-use-with-real-patients">Limits</a></p>
+</td>
 </tr>
 </table>
 
-The books set out the leadership view. The repositories are prototypes that test it, with synthetic data and declared limits.
+## Agentic AI ecosystem
 
-## Agentic AI platforms
+How the platforms relate. Solid arrows are implemented links documented in NOVA's [status matrix](https://github.com/yassineaqejjaj/NOVA/blob/main/docs/STATUS.md); dashed arrows are not an implemented integration.
 
-An interconnected set of tools. **NOVA acts. ORBIT supplies governed context. FORGE evaluates. TrustRail controls what agents are allowed to do.** Each repository stands on its own, with documented interfaces and limitations.
+```mermaid
+flowchart LR
+    nova["NOVA<br/>orchestration and execution"]
+    orbit["ORBIT<br/>governed context and memory"]
+    forge["FORGE<br/>evaluation and regression"]
+    trust["TrustRail<br/>authorization, control, audit"]
 
-<table>
-<tr><td width="50%">
-<a href="https://github.com/yassineaqejjaj/NOVA"><img alt="NOVA agent orchestration project" src="https://raw.githubusercontent.com/yassineaqejjaj/NOVA/main/docs/assets/github-cover.svg"/></a>
-<p><strong>NOVA — Agent orchestration</strong></p>
-<p>Versioned skills, specialist agents, approvals and structured artifacts; a documented SDLC flow from issue to PR.</p>
-<p><a href="https://nova-six-orcin-96.vercel.app">Web preview</a> · <a href="https://github.com/yassineaqejjaj/NOVA">Source</a> · <a href="https://github.com/yassineaqejjaj/NOVA/blob/main/docs/PORTFOLIO_CASE_STUDY.md">Case study</a></p>
-<a href="https://github.com/yassineaqejjaj/NOVA/actions/workflows/ci.yml"><img alt="NOVA CI" src="https://github.com/yassineaqejjaj/NOVA/actions/workflows/ci.yml/badge.svg"/></a>
-</td><td width="50%">
-<a href="https://github.com/yassineaqejjaj/ORBIT"><img alt="ORBIT context and memory project" src="https://raw.githubusercontent.com/yassineaqejjaj/ORBIT/main/docs/assets/github-cover.svg"/></a>
-<p><strong>ORBIT — Context & memory</strong></p>
-<p>Hybrid retrieval, ACL-aware context, versioned memory, provenance, change tracking and token budgeting.</p>
-<p><a href="https://orbit-virid-psi-70.vercel.app">Web preview</a> · <a href="https://github.com/yassineaqejjaj/ORBIT">Source</a> · <a href="https://github.com/yassineaqejjaj/ORBIT/blob/main/docs/PORTFOLIO_CASE_STUDY.md">Case study</a></p>
-<a href="https://github.com/yassineaqejjaj/ORBIT/actions/workflows/ci.yml"><img alt="ORBIT CI" src="https://github.com/yassineaqejjaj/ORBIT/actions/workflows/ci.yml/badge.svg"/></a>
-</td></tr>
-<tr><td width="50%">
-<a href="https://github.com/yassineaqejjaj/FORGE"><img alt="FORGE AI evaluation project" src="https://raw.githubusercontent.com/yassineaqejjaj/FORGE/main/docs/assets/github-cover.svg"/></a>
-<p><strong>FORGE — Agent evaluation</strong></p>
-<p>Reproducible scenarios, traces, judges, human reviews, regression comparisons and release gates.</p>
-<p><a href="https://forge-pied-rho.vercel.app">Web preview</a> · <a href="https://github.com/yassineaqejjaj/FORGE">Source</a> · <a href="https://github.com/yassineaqejjaj/FORGE/blob/main/docs/PORTFOLIO_CASE_STUDY.md">Case study</a></p>
-<a href="https://github.com/yassineaqejjaj/FORGE/actions/workflows/ci.yml"><img alt="FORGE CI" src="https://github.com/yassineaqejjaj/FORGE/actions/workflows/ci.yml/badge.svg"/></a>
-</td><td width="50%">
-<h3>From intent to evidence</h3>
-<pre>NOVA  → plans and executes
-  ↓
-ORBIT → supplies governed context
-  ↓
-FORGE → evaluates and compares</pre>
-<p>Integrations and production availability vary by version. See each repository's status, setup and test reports before relying on a capability.</p>
-<p><strong>Core tools:</strong> Python, FastAPI, LangGraph, React/TypeScript, Next.js, Fastify, zod, PostgreSQL, Docker, OpenTelemetry and GitHub Actions.</p>
-</td></tr>
-</table>
+    nova -- "context as the user,<br/>memory write-back" --> orbit
+    nova -- "agent registration,<br/>traces, feedback" --> forge
+    forge -- "evaluates via NOVA<br/>Agent Protocol" --> nova
+    trust -. "no documented integration yet" .-> nova
+```
 
-<a href="https://github.com/yassineaqejjaj/TrustRail"><img alt="TrustRail agent action control project" src="docs/assets/trustrail-cover.svg"/></a>
+NOVA retrieves context from ORBIT as the user and is evaluated by FORGE. TrustRail is a standalone product today; connecting it to the other three is a direction, not a feature. Production availability varies by version: see each repository's status.
 
-**[TrustRail](https://github.com/yassineaqejjaj/TrustRail) — Control over agent actions.** Defines what an AI agent may do on behalf of a person or company (grants, limits, human approvals) and records verifiable receipts. Two use cases on synthetic sandboxes (support refunds, B2B SaaS subscriptions); no real money moves. [Web preview](https://trustrail-mu.vercel.app) · [Build status](https://github.com/yassineaqejjaj/TrustRail/blob/main/docs/BUILD_STATUS.md)
-
-## Healthcare & education
+## More products: healthcare, education and beyond
 
 Real code and product interfaces, with **synthetic data and declared limits**. These are prototypes/MVPs, not cleared medical tools or approved systems for student or patient information.
 
@@ -99,16 +132,6 @@ Real code and product interfaces, with **synthetic data and declared limits**. T
 | **[TRAIL Academy](https://github.com/yassineaqejjaj/TRAIL-Academy)** | Professional AI learning platform, modules, assessments and course commerce | In development; external integrations and live payments not validated |
 | **[Fencing Intelligence](https://github.com/yassineaqejjaj/fencing-intelligence)** | Fencing video annotation and evidence-based performance analysis | [Web preview](https://fencing-intelligence.vercel.app) · Experimental heuristics |
 | **[APEX F1 Pitwall](https://github.com/yassineaqejjaj/apex-f1-pitwall)** | Race telemetry, replay, team radio and scenario-based strategy modelling | [Web preview](https://apex-f1-pitwall.vercel.app) · Estimates, not race predictions |
-
-## Technical case studies
-
-- **[NOVA: from intent to reviewable execution](https://github.com/yassineaqejjaj/NOVA/blob/main/docs/PORTFOLIO_CASE_STUDY.md)** — orchestration, approval gates, versioned deliverables, planned quality checks.
-- **[ORBIT: fresh, cited, ACL-aware context](https://github.com/yassineaqejjaj/ORBIT/blob/main/docs/PORTFOLIO_CASE_STUDY.md)** — compare governed context with a basic retrieval baseline; no unverified token-saving claims.
-- **[FORGE: baseline versus candidate](https://github.com/yassineaqejjaj/FORGE/blob/main/docs/PORTFOLIO_CASE_STUDY.md)** — synthetic regression demonstration and protocol for reproducible comparison.
-
-The case studies separate **implemented features**, **synthetic demonstrations** and **measurements still to be performed**.
-
-**Portfolio website:** [View the static website source](docs/index.html) · [Activate GitHub Pages and finish profile settings](docs/PROFILE_SETTINGS.md). The hosted website link will be added after Pages is enabled and verified.
 
 ## How I build
 
@@ -154,3 +177,58 @@ Irreversible actions and sensitive data are capped at L1, and any incident drops
 NOVA orchestrates the plan and execution, ORBIT supplies governed context, FORGE evaluates results and TrustRail controls what agents are allowed to do. They are my attempt to make this lifecycle repeatable rather than ad hoc.
 
 My interests: agentic applications, context engineering, evaluation, developer productivity and the operating model of AI-enabled teams.
+
+## Technical capabilities
+
+Only capabilities backed by a project in this profile.
+
+| Capability | Demonstrated in |
+|---|---|
+| Agentic AI and multi-agent orchestration | [NOVA](https://github.com/yassineaqejjaj/NOVA) |
+| RAG and context engineering | [ORBIT](https://github.com/yassineaqejjaj/ORBIT) |
+| AI evaluation and observability | [FORGE](https://github.com/yassineaqejjaj/FORGE), [MedGuard AI](https://github.com/yassineaqejjaj/medguard-ai) |
+| AI security and governance | [TrustRail](https://github.com/yassineaqejjaj/TrustRail), [MedGuard AI](https://github.com/yassineaqejjaj/medguard-ai) |
+| Full-stack product development | [TRAIL Academy](https://github.com/yassineaqejjaj/TRAIL-Academy), [ClassMind](https://github.com/yassineaqejjaj/ClassMind), [CarePilot](https://github.com/yassineaqejjaj/CarePilot) |
+| CI/CD and cloud deployment | GitHub Actions workflows and hosted demos on the featured projects |
+| AI product management | [Agentic SDLC framework](https://github.com/yassineaqejjaj/agentic-sdlc) and the [case studies](https://github.com/yassineaqejjaj/agentic-sdlc#case-studies) |
+
+## Engineering evidence
+
+Quality over volume. Each repository separates what is implemented, what is tested and what has never been run.
+
+| Evidence | Where to look |
+|---|---|
+| Automated CI | Workflows in each repository; the badge on each README shows the current run |
+| Documented architectures | NOVA, ORBIT, FORGE, TrustRail and TRAIL Academy each link an architecture document |
+| Implemented / tested / deployed matrix | [NOVA status](https://github.com/yassineaqejjaj/NOVA/blob/main/docs/STATUS.md) |
+| Honest build status | [TrustRail build status](https://github.com/yassineaqejjaj/TrustRail/blob/main/docs/BUILD_STATUS.md), TRAIL Academy's "verified and not verified" section |
+| Defects found by running the real thing | [Ten case studies](https://github.com/yassineaqejjaj/agentic-sdlc#case-studies) with cited commits |
+| Live demonstrations | NOVA, ORBIT, FORGE, TrustRail, TRAIL Academy, M3aya Santé |
+| Known limits | Each README's status and limitations section; see also the [portfolio audit](docs/PORTFOLIO_AUDIT.md) |
+
+Test counts quoted in repositories are theirs and were not re-run for this profile. Known open issue: Fencing Intelligence currently fails its CI; see the audit.
+
+## The books
+
+Two books on leading AI adoption, each paired with working code in this profile.
+
+<table>
+<tr>
+<td width="50%"><a href="https://www.amazon.fr/dp/B0CN5PG7LT"><img alt="Leading with AI: Embracing the Future of Education" src="docs/assets/book-education.svg"/></a><br/><strong>Education.</strong> <a href="https://www.amazon.fr/dp/B0CN5PG7LT">Leading with AI: Embracing the Future of Education</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/ClassMind">ClassMind</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a> · <a href="https://github.com/yassineaqejjaj/TRAIL-Academy">TRAIL Academy</a></td>
+<td width="50%"><a href="https://www.amazon.fr/dp/B0CVB848M6"><img alt="Leading with AI: A Blueprint for AI-Enhanced Healthcare" src="docs/assets/book-healthcare.svg"/></a><br/><strong>Healthcare.</strong> <a href="https://www.amazon.fr/dp/B0CVB848M6">Leading with AI: A Blueprint for AI-Enhanced Healthcare</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/medguard-ai">MedGuard AI</a> · <a href="https://github.com/yassineaqejjaj/CarePilot">CarePilot</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a></td>
+</tr>
+</table>
+
+The books set out the leadership view. The repositories are prototypes that test it, with synthetic data and declared limits.
+
+## Publications and thought leadership
+
+- **[Leading with AI: Embracing the Future of Education](https://www.amazon.fr/dp/B0CN5PG7LT)** and **[Leading with AI: A Blueprint for AI-Enhanced Healthcare](https://www.amazon.fr/dp/B0CVB848M6)**. The books give the leadership view; the healthcare and education projects below test it with synthetic data.
+- **[Agentic SDLC framework](https://github.com/yassineaqejjaj/agentic-sdlc)**: autonomy levels, stage contracts, agent-specific risks and ten case studies.
+
+## Connect and collaborate
+
+- LinkedIn: [yassine-aqejjaj](https://www.linkedin.com/in/yassine-aqejjaj)
+- GitHub: [yassineaqejjaj](https://github.com/yassineaqejjaj)
+- TRAIL Academy: [trailacademy.fr](https://trailacademy.fr)
+- Books: [Education](https://www.amazon.fr/dp/B0CN5PG7LT) · [Healthcare](https://www.amazon.fr/dp/B0CVB848M6)
