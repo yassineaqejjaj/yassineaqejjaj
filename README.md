@@ -1,3 +1,5 @@
+<p align="center"><img alt="Yassine Aqejjaj, Head of AI and agentic platform architect" src="docs/assets/profile-banner.svg"/></p>
+
 # Yassine Aqejjaj
 
 **Head of AI · Agentic Platform Architect · AI Product Builder**
@@ -50,7 +52,11 @@ FORGE → evaluates and compares</pre>
 
 Real code and product interfaces, with **synthetic data and declared limits**. These are prototypes/MVPs, not cleared medical tools or approved systems for student or patient information.
 
-<img alt="Vita AI wellness coach (private prototype)" src="docs/assets/vita-cover.svg"/>
+<table>
+<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/medguard-ai"><img alt="MedGuard AI" src="docs/assets/medguard-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/SimuLearn"><img alt="SimuLearn" src="docs/assets/simulearn-cover.svg"/></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/ClassMind"><img alt="ClassMind" src="docs/assets/classmind-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/CarePilot"><img alt="CarePilot" src="docs/assets/carepilot-cover.svg"/></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/yassineaqejjaj"><img alt="Vita (private)" src="docs/assets/vita-cover.svg"/></a></td></tr>
+</table>
 
 | Project | What it does | Evidence / status |
 |---|---|---|
@@ -61,6 +67,11 @@ Real code and product interfaces, with **synthetic data and declared limits**. T
 | **[CarePilot](https://github.com/yassineaqejjaj/CarePilot)** | Administrative patient-journey coordination with suggested actions awaiting human approval. | [Product screens](https://github.com/yassineaqejjaj/CarePilot#the-screens) · Local demo only |
 
 ## Other product builds
+
+<table>
+<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/TRAIL-Academy"><img alt="TRAIL Academy" src="https://raw.githubusercontent.com/yassineaqejjaj/TRAIL-Academy/main/docs/assets/github-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/fencing-intelligence"><img alt="Fencing Intelligence" src="https://raw.githubusercontent.com/yassineaqejjaj/fencing-intelligence/main/docs/assets/github-cover.svg"/></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/apex-f1-pitwall"><img alt="APEX F1 Pitwall" src="https://raw.githubusercontent.com/yassineaqejjaj/apex-f1-pitwall/main/docs/assets/github-cover.svg"/></a></td></tr>
+</table>
 
 | Product | Purpose | Access |
 |---|---|---|
