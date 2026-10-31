@@ -42,11 +42,15 @@ FORGE → evaluates and compares</pre>
 </td></tr>
 </table>
 
+<a href="https://github.com/yassineaqejjaj/TrustRail"><img alt="TrustRail agent action control project" src="docs/assets/trustrail-cover.svg"/></a>
+
 **[TrustRail](https://github.com/yassineaqejjaj/TrustRail) — Control over agent actions.** Defines what an AI agent may do on behalf of a person or company (grants, limits, human approvals) and records verifiable receipts. Two use cases on synthetic sandboxes (support refunds, B2B SaaS subscriptions); no real money moves. [Web preview](https://trustrail-mu.vercel.app) · [Build status](https://github.com/yassineaqejjaj/TrustRail/blob/main/docs/BUILD_STATUS.md)
 
 ## Healthcare & education
 
 Real code and product interfaces, with **synthetic data and declared limits**. These are prototypes/MVPs, not cleared medical tools or approved systems for student or patient information.
+
+<img alt="Vita AI wellness coach (private prototype)" src="docs/assets/vita-cover.svg"/>
 
 | Project | What it does | Evidence / status |
 |---|---|---|
