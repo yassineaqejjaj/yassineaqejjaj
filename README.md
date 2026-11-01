@@ -16,6 +16,31 @@ I turn AI ideas into working software: product strategy, system design, engineer
 | Working in healthcare or education | [Healthcare & education](#healthcare--education) · [The books](#the-books) |
 | Looking for agent infrastructure | [NOVA, ORBIT, FORGE and TrustRail](#agentic-ai-platforms) |
 
+<!-- KPI-RESULTS:start -->
+## Key results
+
+| Project | Results |
+|---|---|
+| [DILA · Sovereign AI Platform](https://iaseen.com/work/dila-sovereign-ai) | **−60%** RAG delivery time reduction · **0.94** Answer faithfulness · **75%** Component reuse rate |
+| [Decathlon · AI-Powered Retail](https://iaseen.com/work/decathlon-ai-transformation) | **×2.6** Augmented productivity · **93%** Computer vision precision · **4 M€** Programme scope |
+| [Carrefour · Supply Chain Intelligence](https://iaseen.com/work/carrefour-ml-mlops) | **+13 pts** Fill rate improvement · **18% → 12%** Forecasting WAPE · **−35%** Forecast processing time |
+| [NOVA Suite](https://github.com/yassineaqejjaj/NOVA) | **800** Deployed users · **92%** Task success rate · **−42%** Task execution time reduction |
+| [Nova Agents](https://github.com/yassineaqejjaj/NOVA) | **86%** Task completion rate · **92%** Agent coordination success · **81%** Deliverables accepted without major revision |
+| [Nova Context (ORBIT)](https://github.com/yassineaqejjaj/ORBIT) | **99.5%** Temporal context accuracy · **91%** Context retrieval precision@5 · **−48%** Context token reduction |
+| [Nova Evals (FORGE)](https://github.com/yassineaqejjaj/FORGE) | **96%** Known regression detection rate · **89%** LLM–human judge agreement · **88%** Automated evaluation coverage |
+| [TrustRail](https://github.com/yassineaqejjaj/TrustRail) | **100%** Policy tests passed · **18 ms** P95 gateway overhead · **100%** Audit receipt generation |
+| [M3aya Santé](https://github.com/yassineaqejjaj/CarePilot) | **9/9** Care pathways covered · **94%** Workflow test success · **−35%** Administrative time reduction |
+| [TRAIL Academy](https://github.com/yassineaqejjaj/TRAIL-Academy) | **18** Learning modules · **82%** Learning completion rate · **70%** Hands-on content |
+| [MedGuard AI](https://github.com/yassineaqejjaj/medguard-ai) | **91%** AI–expert evaluation agreement · **96%** Critical issue recall · **100%** Test audit coverage |
+| [SimuLearn](https://github.com/yassineaqejjaj/SimuLearn) | **24** Simulation scenarios · **87%** Scenario completion rate · **4.3/5** User experience rating |
+| [ClassMind](https://github.com/yassineaqejjaj/ClassMind) | **0.91** Answer faithfulness · **89%** Curriculum alignment · **−40%** Lesson preparation time reduction |
+| [Fencing Intelligence](https://github.com/yassineaqejjaj/fencing-intelligence) | **91%** Event detection precision · **−60%** Video review time reduction · **3** Fencing disciplines covered |
+| LEAP | **1,500+** Professionals trained · **75+** Training sessions delivered · **4.6/5** Training satisfaction |
+| Prompt Arena | **13** Learning paths · **130** Applied challenges · **76%** Challenge success rate |
+
+_Calculation method, scope and measurement period available on request._
+<!-- KPI-RESULTS:end -->
+
 ## The books
 
 Two books on leading AI adoption, each paired with working code in this profile.
