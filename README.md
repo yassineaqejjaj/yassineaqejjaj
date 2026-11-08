@@ -116,11 +116,12 @@ Real code and product interfaces, with **synthetic data and declared limits**. T
 
 <table>
 <tr><td width="50%"><a href="https://github.com/yassineaqejjaj/TRAIL-Academy"><img alt="TRAIL Academy" src="https://raw.githubusercontent.com/yassineaqejjaj/TRAIL-Academy/main/docs/assets/github-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/fencing-intelligence"><img alt="Fencing Intelligence" src="https://raw.githubusercontent.com/yassineaqejjaj/fencing-intelligence/main/docs/assets/github-cover.svg"/></a></td></tr>
-<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/apex-f1-pitwall"><img alt="APEX F1 Pitwall" src="https://raw.githubusercontent.com/yassineaqejjaj/apex-f1-pitwall/main/docs/assets/github-cover.svg"/></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/trail-intelligence"><img alt="TRAIL Intelligence" src="https://raw.githubusercontent.com/yassineaqejjaj/trail-intelligence/main/docs/assets/github-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/apex-f1-pitwall"><img alt="APEX F1 Pitwall" src="https://raw.githubusercontent.com/yassineaqejjaj/apex-f1-pitwall/main/docs/assets/github-cover.svg"/></a></td></tr>
 </table>
 
 | Product | Purpose | Access |
 |---|---|---|
+| **[TRAIL Intelligence](https://github.com/yassineaqejjaj/trail-intelligence)** | AI skills intelligence: practice lab, evidence-linked assessments, human review and a verified skills passport, with privacy-preserving team analytics | [Web app](https://trail-intelligence.vercel.app) · In production; the AI evaluator is a keyword heuristic until an LLM is connected, so scores are provisional and uncalibrated |
 | **[TRAIL Academy](https://github.com/yassineaqejjaj/TRAIL-Academy)** | Professional AI learning platform, modules, assessments and course commerce | In development; external integrations and live payments not validated |
 | **[Fencing Intelligence](https://github.com/yassineaqejjaj/fencing-intelligence)** | Fencing video annotation and evidence-based performance analysis | [Web preview](https://fencing-intelligence.vercel.app) · Experimental heuristics |
 | **[APEX F1 Pitwall](https://github.com/yassineaqejjaj/apex-f1-pitwall)** | Race telemetry, replay, team radio and scenario-based strategy modelling | [Web preview](https://apex-f1-pitwall.vercel.app) · Estimates, not race predictions |
