@@ -203,7 +203,19 @@ I own the architecture, acceptance criteria, code review and release decisions. 
 
 ## The books
 
-I write about leading AI adoption in education and healthcare. Explore the books alongside the related projects in this profile.
+Books by Yassine Aqejjaj, connected to the projects and frameworks in this profile.
+
+### SYMBIOSE
+
+<a href="https://www.amazon.fr/dp/B0G48PY7S5"><img alt="SYMBIOSE — a book by Yassine Aqejjaj, connected to NOVA, ORBIT, FORGE, ARIS and AI SDLC" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e6eb08e8b23b18924e942cb7645dbf8dd3d7f9ac/docs/assets/book-symbiose.svg" width="1280"/></a>
+
+**[Discover SYMBIOSE on Amazon →](https://www.amazon.fr/dp/B0G48PY7S5)**
+
+**Related projects:** [NOVA](https://github.com/yassineaqejjaj/NOVA) · [ORBIT](https://github.com/yassineaqejjaj/ORBIT) · [FORGE](https://github.com/yassineaqejjaj/FORGE) · [ARIS (private)](https://github.com/yassineaqejjaj/ARIS) · [AI SDLC](https://github.com/yassineaqejjaj/agentic-sdlc)
+
+NOVA coordinates agents · ORBIT supplies context and memory · FORGE evaluates · ARIS executes enterprise missions · AI SDLC structures the development lifecycle.
+
+[Explore the book-to-project map →](https://github.com/yassineaqejjaj/agentic-sdlc/blob/main/docs/companion-books.md#symbiose)
 
 <table>
 <tr>
