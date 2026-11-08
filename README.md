@@ -59,10 +59,11 @@ Three ways I turn ideas into impact.
 
 <img src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/1632a9c1265886bcfb2895e82d557a8845bf402f/docs/assets/homepage/home-constellation.svg" width="1200" alt="The agentic constellation: ORBIT supplies context to NOVA; FORGE evaluates; TrustRail governs actions across the workflow."/>
 
-Four projects. One engineering philosophy: useful agents need context, coordination, evaluation and control.
+Context, coordination, evaluation and control. **ARIS** adds a standalone, mission-driven enterprise platform to this portfolio.
 
 | Project | What I built | Achieved results | Explore |
 |---|---|---|---|
+| **ARIS** | Enterprise missions planned as task graphs, executed by specialised agents with human approval gates. First workflow: RFP response preparation. | **7** specialised agents · **26/26** backend tests passed | Private beta · RFP workflow verified with a scripted provider |
 | **NOVA** | Agent orchestration with versioned skills, specialist agents, human approvals and editable artifacts. | **800** deployed users · **92%** task success · **−42%** execution time | [Code](https://github.com/yassineaqejjaj/NOVA) · [Demo](https://nova-six-orcin-96.vercel.app) · [Case study](https://github.com/yassineaqejjaj/NOVA/blob/main/docs/PORTFOLIO_CASE_STUDY.md) |
 | **ORBIT** | Governed retrieval and memory with access controls, provenance and context budgeting. | **91%** retrieval precision@5 · **−48%** context tokens | [Code](https://github.com/yassineaqejjaj/ORBIT) · [Demo](https://orbit-virid-psi-70.vercel.app) · [Case study](https://github.com/yassineaqejjaj/ORBIT/blob/main/docs/PORTFOLIO_CASE_STUDY.md) |
 | **FORGE** | Agent evaluation with versioned scenarios, traces, human reviews and regression gates. | **96%** known regression detection · **89%** LLM–human judge agreement | [Code](https://github.com/yassineaqejjaj/FORGE) · [Demo](https://forge-pied-rho.vercel.app) · [Case study](https://github.com/yassineaqejjaj/FORGE/blob/main/docs/PORTFOLIO_CASE_STUDY.md) |
@@ -70,6 +71,8 @@ Four projects. One engineering philosophy: useful agents need context, coordinat
 
 <details>
 <summary>View IASEEN Constellation project banners</summary>
+
+<p><img alt="ARIS — Autonomous Reasoning &amp; Intelligence System (private beta)" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/7029c0e29c4b1abad78c8a0dc89e290ad1347fec/docs/assets/aris-cover.svg" width="1280"/></p>
 
 <table>
 <tr><td width="50%"><a href="https://github.com/yassineaqejjaj/NOVA"><img alt="NOVA agent orchestration project" src="https://raw.githubusercontent.com/yassineaqejjaj/NOVA/main/docs/assets/github-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/ORBIT"><img alt="ORBIT context and memory project" src="https://raw.githubusercontent.com/yassineaqejjaj/ORBIT/main/docs/assets/github-cover.svg"/></a></td></tr>
@@ -154,6 +157,7 @@ Achieved outcomes across enterprise delivery, AI products, education and trainin
 | [Nova Agents](https://github.com/yassineaqejjaj/NOVA) | **86%** Task completion rate · **92%** Agent coordination success · **81%** Deliverables accepted without major revision |
 | [Nova Context (ORBIT)](https://github.com/yassineaqejjaj/ORBIT) | **99.5%** Temporal context accuracy · **91%** Context retrieval precision@5 · **−48%** Context token reduction |
 | [Nova Evals (FORGE)](https://github.com/yassineaqejjaj/FORGE) | **96%** Known regression detection rate · **89%** LLM–human judge agreement · **88%** Automated evaluation coverage |
+| ARIS (private beta) | **7** Specialised agents · **26/26** Backend tests passed · RFP workflow verified with a scripted provider |
 | [TrustRail](https://github.com/yassineaqejjaj/TrustRail) | **100%** Policy tests passed · **18 ms** P95 gateway overhead · **100%** Audit receipt generation |
 | [M3aya Santé](https://github.com/yassineaqejjaj/CarePilot) | **9/9** Care pathways covered · **94%** Workflow test success · **−35%** Administrative time reduction |
 | [TRAIL Academy](https://github.com/yassineaqejjaj/TRAIL-Academy) | **18** Learning modules · **82%** Learning completion rate · **70%** Hands-on content |
