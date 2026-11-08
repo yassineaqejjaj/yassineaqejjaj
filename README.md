@@ -1,48 +1,65 @@
-<p align="center"><img alt="Yassine Aqejjaj, Head of AI and agentic platform architect" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/profile-banner.svg"/></p>
+<p align="center">
+  <a href="https://iaseen.com"><img src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/1632a9c1265886bcfb2895e82d557a8845bf402f/docs/assets/homepage/home-hero.svg" width="1200" alt="IASEEN — Yassine Aqejjaj. I architect intelligence. Head of AI, platform architect and product builder."/></a>
+</p>
 
-# Yassine Aqejjaj
+<h1 align="center">Yassine Aqejjaj</h1>
+<p align="center"><strong>Head of AI · Agentic Platform Architect · Product Builder · Author</strong></p>
 
-**Head of AI · Agentic Platform Architect · Product Builder · Author**
+<p align="center">I connect AI strategy, system architecture and hands-on engineering.<br/>From enterprise platforms to products that people can use, govern and improve.</p>
 
-I turn AI strategy into platforms and products that teams can use, govern and improve. I connect **leadership**, **system architecture** and **hands-on engineering**—from enterprise delivery to agentic AI, HealthTech and EdTech.
+<p align="center">
+  <a href="https://iaseen.com"><strong>Portfolio & experience →</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:yassine.aqejjaj@gmail.com"><strong>Get in touch →</strong></a>
+</p>
 
-My work spans sovereign AI platforms, retail and supply-chain transformation, and products I build myself.
+<table>
+<tr>
+<td width="33%" align="center"><sub>01 / THE WORK</sub><br/><a href="#featured-work"><strong>Lead · Build · Apply ↓</strong></a></td>
+<td width="34%" align="center"><sub>02 / THE SYSTEM</sub><br/><a href="#agentic-ai-platforms"><strong>Explore the constellation ↓</strong></a></td>
+<td width="33%" align="center"><sub>03 / THE IMPACT</sub><br/><a href="#key-results"><strong>See achieved results ↓</strong></a></td>
+</tr>
+</table>
 
-[**Featured work**](#featured-work) · [**Agentic AI**](#agentic-ai-platforms) · [**HealthTech**](#healthtech) · [**EdTech**](#edtech) · [**Sportech**](#sportech) · [**Results**](#key-results) · [**Books**](#the-books) · [**Contact**](#lets-talk)
-
-[Portfolio & experience](https://iaseen.com) · [All repositories](https://github.com/yassineaqejjaj?tab=repositories)
+<p align="center">
+<a href="#healthtech">HealthTech</a> &nbsp;/&nbsp;
+<a href="#edtech">EdTech</a> &nbsp;/&nbsp;
+<a href="#sportech">Sportech</a> &nbsp;/&nbsp;
+<a href="#the-books">Books</a> &nbsp;/&nbsp;
+<a href="#how-i-build">How I build</a>
+</p>
 
 ## Featured work
 
-### Lead · DILA — Sovereign AI platform
+Three ways I turn ideas into impact.
 
-**Challenge:** make RAG delivery repeatable through a reusable sovereign AI platform.  
-**Focus:** platform architecture, delivery acceleration and component reuse.  
-**Achieved:** **60% less RAG delivery time**, **0.94 answer faithfulness**, **75% component reuse**.
+<a href="https://iaseen.com/work/dila-sovereign-ai"><img src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/1632a9c1265886bcfb2895e82d557a8845bf402f/docs/assets/homepage/home-lead.svg" width="1200" alt="Lead — DILA sovereign AI platform: 60% less RAG delivery time and 75% component reuse."/></a>
 
-[Read the case study](https://iaseen.com/work/dila-sovereign-ai)
+**DILA · Enterprise delivery.** Reusable sovereign AI architecture, faster RAG delivery and **0.94 answer faithfulness**.  
+[Read the case study →](https://iaseen.com/work/dila-sovereign-ai)
 
-### Build · NOVA — From intent to coordinated execution
+<a href="https://github.com/yassineaqejjaj/NOVA"><img src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/1632a9c1265886bcfb2895e82d557a8845bf402f/docs/assets/homepage/home-build.svg" width="1200" alt="Build — NOVA agent orchestration: 800 deployed users and 92% task success."/></a>
 
-**Challenge:** turn a request into structured work while maintaining context and human control.  
-**What I built:** an orchestration platform connecting specialist agents, versioned skills, editable artifacts and approval gates.  
-**Achieved:** **800 deployed users**, **92% task success**, **42% less execution time**.
+**NOVA · Product engineering.** A personal product agent connecting specialist agents, versioned skills and human approval gates, with **42% less execution time**.  
+[Try NOVA →](https://nova-six-orcin-96.vercel.app) · [Explore the code](https://github.com/yassineaqejjaj/NOVA) · [Architecture & results](https://github.com/yassineaqejjaj/NOVA/blob/main/docs/PORTFOLIO_CASE_STUDY.md)
 
-[Try NOVA](https://nova-six-orcin-96.vercel.app) · [Explore the code](https://github.com/yassineaqejjaj/NOVA) · [Architecture & results](https://github.com/yassineaqejjaj/NOVA/blob/main/docs/PORTFOLIO_CASE_STUDY.md)
+<a href="https://carepilot-maroc.vercel.app"><img src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/1632a9c1265886bcfb2895e82d557a8845bf402f/docs/assets/homepage/home-apply.svg" width="1200" alt="Apply — M3aya Santé care coordination: 35% less administrative time and 94% workflow test success."/></a>
 
-### Apply · M3aya Santé — Connected care journeys
+**M3aya Santé · Applied AI.** **9/9 care pathways** connected through suggested actions, human approvals and traceable workflows.  
+[Explore the demo →](https://carepilot-maroc.vercel.app) · [Watch the walkthrough](https://github.com/user-attachments/assets/f6f8542e-7ebe-4b5e-8892-dd34fc8fe758) · [Code & architecture](https://github.com/yassineaqejjaj/CarePilot)
 
-**Challenge:** help clinic teams coordinate administrative work across the patient journey.  
-**What I built:** a care-coordination application with suggested actions, human approvals and a traceable workflow.  
-**Achieved:** **9/9 care pathways covered**, **94% workflow test success**, **35% less administrative time**.
+<details>
+<summary>More enterprise impact · Decathlon & Carrefour</summary>
 
-[Explore the public demo](https://carepilot-maroc.vercel.app) · [Watch the product walkthrough](https://github.com/user-attachments/assets/f6f8542e-7ebe-4b5e-8892-dd34fc8fe758) · [Code & architecture](https://github.com/yassineaqejjaj/CarePilot)
+- [**Decathlon — AI-powered retail**](https://iaseen.com/work/decathlon-ai-transformation): **×2.6** augmented productivity, **93%** computer vision precision.
+- [**Carrefour — Supply chain intelligence**](https://iaseen.com/work/carrefour-ml-mlops): **+13 pts** fill rate; forecasting WAPE **18% → 12%**.
 
-**More enterprise delivery:** [Decathlon — AI-powered retail](https://iaseen.com/work/decathlon-ai-transformation): **×2.6** augmented productivity, **93%** computer vision precision · [Carrefour — Supply chain intelligence](https://iaseen.com/work/carrefour-ml-mlops): **+13 pts** fill rate, forecasting WAPE **18% → 12%**.
+</details>
 
 ## Agentic AI platforms
 
-**NOVA orchestrates → ORBIT supplies context → FORGE evaluates. TrustRail governs actions across the workflow.**
+<img src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/1632a9c1265886bcfb2895e82d557a8845bf402f/docs/assets/homepage/home-constellation.svg" width="1200" alt="The agentic constellation: ORBIT supplies context to NOVA; FORGE evaluates; TrustRail governs actions across the workflow."/>
+
+Four projects. One engineering philosophy: useful agents need context, coordination, evaluation and control.
 
 | Project | What I built | Achieved results | Explore |
 |---|---|---|---|
@@ -193,6 +210,14 @@ I write about leading AI adoption in education and healthcare. Explore the books
 
 ## Let's talk
 
-Looking for AI leadership, an agentic platform architecture, or a partner to turn an AI product idea into working software?
+<a href="mailto:yassine.aqejjaj@gmail.com"><img src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/1632a9c1265886bcfb2895e82d557a8845bf402f/docs/assets/homepage/home-contact.svg" width="1200" alt="Let's build what comes next. Contact Yassine Aqejjaj about AI leadership, agentic platforms and product collaboration."/></a>
 
-[**Email me**](mailto:yassine.aqejjaj@gmail.com) · [**Explore my experience**](https://iaseen.com) · [**Browse my repositories**](https://github.com/yassineaqejjaj?tab=repositories)
+<p align="center"><strong>AI leadership. Agentic platforms. Products worth building.</strong></p>
+
+<p align="center">
+<a href="mailto:yassine.aqejjaj@gmail.com"><strong>Email me →</strong></a> &nbsp;·&nbsp;
+<a href="https://iaseen.com">Explore my experience</a> &nbsp;·&nbsp;
+<a href="https://github.com/yassineaqejjaj?tab=repositories">Browse the code</a>
+</p>
+
+<p align="center"><sub>IASEEN · THE INTELLIGENCE UNIVERSE</sub></p>
