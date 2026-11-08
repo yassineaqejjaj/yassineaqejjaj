@@ -1,4 +1,4 @@
-<p align="center"><img alt="Yassine Aqejjaj, Head of AI and agentic platform architect" src="docs/assets/profile-banner.svg"/></p>
+<p align="center"><img alt="Yassine Aqejjaj, Head of AI and agentic platform architect" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/profile-banner.svg"/></p>
 
 # Yassine Aqejjaj
 
@@ -47,8 +47,8 @@ Two books on leading AI adoption, each paired with working code in this profile.
 
 <table>
 <tr>
-<td width="50%"><a href="https://www.amazon.fr/dp/B0CN5PG7LT"><img alt="Leading with AI: Embracing the Future of Education" src="docs/assets/book-education.svg"/></a><br/><strong>Education.</strong> <a href="https://www.amazon.fr/dp/B0CN5PG7LT">Leading with AI: Embracing the Future of Education</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/ClassMind">ClassMind</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a> · <a href="https://github.com/yassineaqejjaj/TRAIL-Academy">TRAIL Academy</a></td>
-<td width="50%"><a href="https://www.amazon.fr/dp/B0CVB848M6"><img alt="Leading with AI: A Blueprint for AI-Enhanced Healthcare" src="docs/assets/book-healthcare.svg"/></a><br/><strong>Healthcare.</strong> <a href="https://www.amazon.fr/dp/B0CVB848M6">Leading with AI: A Blueprint for AI-Enhanced Healthcare</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/medguard-ai">MedGuard AI</a> · <a href="https://github.com/yassineaqejjaj/CarePilot">CarePilot</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a></td>
+<td width="50%"><a href="https://www.amazon.fr/dp/B0CN5PG7LT"><img alt="Leading with AI: Embracing the Future of Education" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/book-education.svg"/></a><br/><strong>Education.</strong> <a href="https://www.amazon.fr/dp/B0CN5PG7LT">Leading with AI: Embracing the Future of Education</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/ClassMind">ClassMind</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a> · <a href="https://github.com/yassineaqejjaj/TRAIL-Academy">TRAIL Academy</a></td>
+<td width="50%"><a href="https://www.amazon.fr/dp/B0CVB848M6"><img alt="Leading with AI: A Blueprint for AI-Enhanced Healthcare" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/book-healthcare.svg"/></a><br/><strong>Healthcare.</strong> <a href="https://www.amazon.fr/dp/B0CVB848M6">Leading with AI: A Blueprint for AI-Enhanced Healthcare</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/medguard-ai">MedGuard AI</a> · <a href="https://github.com/yassineaqejjaj/CarePilot">CarePilot</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a></td>
 </tr>
 </table>
 
@@ -90,7 +90,7 @@ FORGE → evaluates and compares</pre>
 </td></tr>
 </table>
 
-<a href="https://github.com/yassineaqejjaj/TrustRail"><img alt="TrustRail agent action control project" src="docs/assets/trustrail-cover.svg"/></a>
+<a href="https://github.com/yassineaqejjaj/TrustRail"><img alt="TrustRail agent action control project" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/trustrail-cover.svg"/></a>
 
 **[TrustRail](https://github.com/yassineaqejjaj/TrustRail) — Control over agent actions.** Defines what an AI agent may do on behalf of a person or company (grants, limits, human approvals) and records verifiable receipts. Two use cases on synthetic sandboxes (support refunds, B2B SaaS subscriptions); no real money moves. [Web preview](https://trustrail-mu.vercel.app) · [Build status](https://github.com/yassineaqejjaj/TrustRail/blob/main/docs/BUILD_STATUS.md)
 
@@ -99,9 +99,9 @@ FORGE → evaluates and compares</pre>
 Real code and product interfaces, with **synthetic data and declared limits**. These are prototypes/MVPs, not cleared medical tools or approved systems for student or patient information.
 
 <table>
-<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/medguard-ai"><img alt="MedGuard AI" src="docs/assets/medguard-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/SimuLearn"><img alt="SimuLearn" src="docs/assets/simulearn-cover.svg"/></a></td></tr>
-<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/ClassMind"><img alt="ClassMind" src="docs/assets/classmind-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/CarePilot"><img alt="CarePilot" src="docs/assets/carepilot-cover.svg"/></a></td></tr>
-<tr><td width="50%"><img alt="Vita (private)" src="docs/assets/vita-cover.svg"/></td></tr>
+<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/medguard-ai"><img alt="MedGuard AI" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/medguard-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/SimuLearn"><img alt="SimuLearn" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/simulearn-cover.svg"/></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/ClassMind"><img alt="ClassMind" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/classmind-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/CarePilot"><img alt="CarePilot" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/carepilot-cover.svg"/></a></td></tr>
+<tr><td width="50%"><img alt="Vita (private)" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/vita-cover.svg"/></td></tr>
 </table>
 
 | Project | What it does | Evidence / status |
