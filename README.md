@@ -4,59 +4,24 @@
 
 **Head of AI · Agentic Platform Architect · AI Product Builder**
 
-I turn AI ideas into working software: product strategy, system design, engineering, evaluation and deployment. My focus is **agentic platforms**, **trustworthy AI**, **digital health**, and **education**. I build hands-on with AI coding tools while keeping architectural decisions, review and quality checks under human control.
+I lead AI initiatives and build the software behind them—from product strategy and system architecture to evaluation and deployment. My work focuses on **agentic platforms**, **trustworthy AI**, **HealthTech**, and **EdTech**.
 
-[**Portfolio · iaseen.com**](https://iaseen.com) · [**My work**](#agentic-ai-platforms) · [**HealthTech**](#healthtech) · [**EdTech**](#edtech) · [**Sportech**](#sportech) · [**Engineering approach**](#how-i-build) · [**Agentic SDLC framework**](https://github.com/yassineaqejjaj/agentic-sdlc) · [**Books**](#the-books) · [**Technical case studies**](#technical-case-studies) · [**All repositories**](https://github.com/yassineaqejjaj?tab=repositories)
+[**Portfolio & experience**](https://iaseen.com) · [**Agentic AI**](#agentic-ai-platforms) · [**HealthTech**](#healthtech) · [**EdTech**](#edtech) · [**Sportech**](#sportech) · [**Books**](#the-books) · [**How I build**](#how-i-build)
 
 ## Start here
 
-| If you are... | Go to |
+| What you want to explore | Start with |
 |---|---|
-| Leading an AI or engineering team | [Agentic SDLC framework](https://github.com/yassineaqejjaj/agentic-sdlc) · [How I build](#how-i-build) |
-| Working in healthcare or education | [HealthTech](#healthtech) · [EdTech](#edtech) · [The books](#the-books) |
-| Looking for agent infrastructure | [NOVA, ORBIT, FORGE and TrustRail](#agentic-ai-platforms) |
-
-<!-- KPI-RESULTS:start -->
-## Key results
-
-| Project | Results |
-|---|---|
-| [DILA · Sovereign AI Platform](https://iaseen.com/work/dila-sovereign-ai) | **−60%** RAG delivery time reduction · **0.94** Answer faithfulness · **75%** Component reuse rate |
-| [Decathlon · AI-Powered Retail](https://iaseen.com/work/decathlon-ai-transformation) | **×2.6** Augmented productivity · **93%** Computer vision precision · **4 M€** Programme scope |
-| [Carrefour · Supply Chain Intelligence](https://iaseen.com/work/carrefour-ml-mlops) | **+13 pts** Fill rate improvement · **18% → 12%** Forecasting WAPE · **−35%** Forecast processing time |
-| [NOVA Suite](https://github.com/yassineaqejjaj/NOVA) | **800** Deployed users · **92%** Task success rate · **−42%** Task execution time reduction |
-| [Nova Agents](https://github.com/yassineaqejjaj/NOVA) | **86%** Task completion rate · **92%** Agent coordination success · **81%** Deliverables accepted without major revision |
-| [Nova Context (ORBIT)](https://github.com/yassineaqejjaj/ORBIT) | **99.5%** Temporal context accuracy · **91%** Context retrieval precision@5 · **−48%** Context token reduction |
-| [Nova Evals (FORGE)](https://github.com/yassineaqejjaj/FORGE) | **96%** Known regression detection rate · **89%** LLM–human judge agreement · **88%** Automated evaluation coverage |
-| [TrustRail](https://github.com/yassineaqejjaj/TrustRail) | **100%** Policy tests passed · **18 ms** P95 gateway overhead · **100%** Audit receipt generation |
-| [M3aya Santé](https://github.com/yassineaqejjaj/CarePilot) | **9/9** Care pathways covered · **94%** Workflow test success · **−35%** Administrative time reduction |
-| [TRAIL Academy](https://github.com/yassineaqejjaj/TRAIL-Academy) | **18** Learning modules · **82%** Learning completion rate · **70%** Hands-on content |
-| [MedGuard AI](https://github.com/yassineaqejjaj/medguard-ai) | **91%** AI–expert evaluation agreement · **96%** Critical issue recall · **100%** Test audit coverage |
-| [SimuLearn](https://github.com/yassineaqejjaj/SimuLearn) | **24** Simulation scenarios · **87%** Scenario completion rate · **4.3/5** User experience rating |
-| [ClassMind](https://github.com/yassineaqejjaj/ClassMind) | **0.91** Answer faithfulness · **89%** Curriculum alignment · **−40%** Lesson preparation time reduction |
-| [Fencing Intelligence](https://github.com/yassineaqejjaj/fencing-intelligence) | **91%** Event detection precision · **−60%** Video review time reduction · **3** Fencing disciplines covered |
-| LEAP | **1,500+** Professionals trained · **75+** Training sessions delivered · **4.6/5** Training satisfaction |
-| Prompt Arena | **13** Learning paths · **130** Applied challenges · **76%** Challenge success rate |
-
-_Calculation method, scope and measurement period available on request._
-<!-- KPI-RESULTS:end -->
-
-## The books
-
-Two books on leading AI adoption, each paired with working code in this profile.
-
-<table>
-<tr>
-<td width="50%"><a href="https://www.amazon.fr/dp/B0CN5PG7LT"><img alt="Leading with AI: Embracing the Future of Education" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/book-education.svg"/></a><br/><strong>Education.</strong> <a href="https://www.amazon.fr/dp/B0CN5PG7LT">Leading with AI: Embracing the Future of Education</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/ClassMind">ClassMind</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a> · <a href="https://github.com/yassineaqejjaj/TRAIL-Academy">TRAIL Academy</a></td>
-<td width="50%"><a href="https://www.amazon.fr/dp/B0CVB848M6"><img alt="Leading with AI: A Blueprint for AI-Enhanced Healthcare" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/book-healthcare.svg"/></a><br/><strong>Healthcare.</strong> <a href="https://www.amazon.fr/dp/B0CVB848M6">Leading with AI: A Blueprint for AI-Enhanced Healthcare</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/medguard-ai">MedGuard AI</a> · <a href="https://github.com/yassineaqejjaj/CarePilot">M3aya Santé</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a></td>
-</tr>
-</table>
-
-The books set out the leadership view. The repositories are prototypes that test it, with synthetic data and declared limits.
+| AI leadership, client work and experience | [Portfolio](https://iaseen.com) · [DILA](https://iaseen.com/work/dila-sovereign-ai) · [Decathlon](https://iaseen.com/work/decathlon-ai-transformation) · [Carrefour](https://iaseen.com/work/carrefour-ml-mlops) |
+| Agent architecture and working code | [NOVA](https://github.com/yassineaqejjaj/NOVA) · [ORBIT](https://github.com/yassineaqejjaj/ORBIT) · [FORGE](https://github.com/yassineaqejjaj/FORGE) · [TrustRail](https://github.com/yassineaqejjaj/TrustRail) |
+| Healthcare, learning and simulation | [HealthTech](#healthtech) · [EdTech](#edtech) |
+| Building software with AI coding agents | [Agentic SDLC](https://github.com/yassineaqejjaj/agentic-sdlc) · [Engineering approach](#how-i-build) |
 
 ## Agentic AI platforms
 
-An interconnected set of tools. **NOVA acts. ORBIT supplies governed context. FORGE evaluates. TrustRail controls what agents are allowed to do.** Each repository stands on its own, with documented interfaces and limitations.
+Four complementary tools for building and operating AI agents. Each repository documents its own capabilities, setup and limits.
+
+**NOVA orchestrates → ORBIT supplies context → FORGE evaluates. TrustRail governs actions across the workflow.**
 
 <table>
 <tr><td width="50%">
@@ -79,20 +44,12 @@ An interconnected set of tools. **NOVA acts. ORBIT supplies governed context. FO
 <p><a href="https://forge-pied-rho.vercel.app">Web preview</a> · <a href="https://github.com/yassineaqejjaj/FORGE">Source</a> · <a href="https://github.com/yassineaqejjaj/FORGE/blob/main/docs/PORTFOLIO_CASE_STUDY.md">Case study</a></p>
 <a href="https://github.com/yassineaqejjaj/FORGE/actions/workflows/ci.yml"><img alt="FORGE CI" src="https://github.com/yassineaqejjaj/FORGE/actions/workflows/ci.yml/badge.svg"/></a>
 </td><td width="50%">
-<h3>From intent to evidence</h3>
-<pre>NOVA  → plans and executes
-  ↓
-ORBIT → supplies governed context
-  ↓
-FORGE → evaluates and compares</pre>
-<p>Integrations and production availability vary by version. See each repository's status, setup and test reports before relying on a capability.</p>
-<p><strong>Core tools:</strong> Python, FastAPI, LangGraph, React/TypeScript, Next.js, Fastify, zod, PostgreSQL, Docker, OpenTelemetry and GitHub Actions.</p>
+<a href="https://github.com/yassineaqejjaj/TrustRail"><img alt="TrustRail agent action control project" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/trustrail-cover.svg"/></a>
+<p><strong>TrustRail — Agent action control</strong></p>
+<p>Grants, policies, human approvals and verifiable action receipts. Demonstrations use synthetic sandboxes.</p>
+<p><a href="https://trustrail-mu.vercel.app">Web preview</a> · <a href="https://github.com/yassineaqejjaj/TrustRail">Source</a> · <a href="https://github.com/yassineaqejjaj/TrustRail/blob/main/docs/BUILD_STATUS.md">Build status</a></p>
 </td></tr>
 </table>
-
-<a href="https://github.com/yassineaqejjaj/TrustRail"><img alt="TrustRail agent action control project" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/trustrail-cover.svg"/></a>
-
-**[TrustRail](https://github.com/yassineaqejjaj/TrustRail) — Control over agent actions.** Defines what an AI agent may do on behalf of a person or company (grants, limits, human approvals) and records verifiable receipts. Two use cases on synthetic sandboxes (support refunds, B2B SaaS subscriptions); no real money moves. [Web preview](https://trustrail-mu.vercel.app) · [Build status](https://github.com/yassineaqejjaj/TrustRail/blob/main/docs/BUILD_STATUS.md)
 
 ## HealthTech
 
@@ -106,7 +63,7 @@ Healthcare and wellness prototypes, with **synthetic data and declared limits**.
 | Project | What it does | Evidence / status |
 |---|---|---|
 | **[MedGuard AI](https://github.com/yassineaqejjaj/medguard-ai)** | Evaluates healthcare AI applications, records human review and blocks failed release criteria. | [Screenshots & synthetic test workflow](https://github.com/yassineaqejjaj/medguard-ai#see-it-work) · MVP |
-| **[M3aya Santé](https://github.com/yassineaqejjaj/CarePilot)** | Administrative patient-journey coordination with suggested actions awaiting human approval. | [Product screens](https://github.com/yassineaqejjaj/CarePilot#the-screens) · Local demo only |
+| **[M3aya Santé](https://github.com/yassineaqejjaj/CarePilot)** | Administrative patient-journey coordination with suggested actions awaiting human approval. | [Product screens](https://github.com/yassineaqejjaj/CarePilot#for-clinic-teams) · Local demo only |
 | **Vita** | AI wellness and prevention coach for iOS and Android: weekly plans from phone and wearable data, with safety guardrails. | Private repository · Complete prototype, not yet launched; not a medical device |
 
 ## EdTech
@@ -127,6 +84,8 @@ AI-supported learning, simulation and practical skills development, with human r
 
 ## Sportech
 
+Tools for reviewing athletic performance and exploring race strategy.
+
 <table>
 <tr><td width="50%"><a href="https://github.com/yassineaqejjaj/fencing-intelligence"><img alt="Fencing Intelligence" src="https://raw.githubusercontent.com/yassineaqejjaj/fencing-intelligence/main/docs/assets/github-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/apex-f1-pitwall"><img alt="APEX F1 Pitwall" src="https://raw.githubusercontent.com/yassineaqejjaj/apex-f1-pitwall/main/docs/assets/github-cover.svg"/></a></td></tr>
 </table>
@@ -144,15 +103,35 @@ AI-supported learning, simulation and practical skills development, with human r
 
 The case studies separate **implemented features**, **synthetic demonstrations** and **measurements still to be performed**.
 
-**Portfolio website:** [iaseen.com](https://iaseen.com) · [Source code](https://github.com/yassineaqejjaj/iaseen)
 
-My personal AI portfolio brings together my experience, client case studies, AI products, books and a printable CV.
+## The books
+
+I write about leading AI adoption in education and healthcare. Explore the books alongside the related projects in this profile.
+
+<table>
+<tr>
+<td width="50%"><a href="https://www.amazon.fr/dp/B0CN5PG7LT"><img alt="Leading with AI: Embracing the Future of Education" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/book-education.svg"/></a><br/><strong>Education.</strong> <a href="https://www.amazon.fr/dp/B0CN5PG7LT">Leading with AI: Embracing the Future of Education</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/ClassMind">ClassMind</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a> · <a href="https://github.com/yassineaqejjaj/TRAIL-Academy">TRAIL Academy</a></td>
+<td width="50%"><a href="https://www.amazon.fr/dp/B0CVB848M6"><img alt="Leading with AI: A Blueprint for AI-Enhanced Healthcare" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/book-healthcare.svg"/></a><br/><strong>Healthcare.</strong> <a href="https://www.amazon.fr/dp/B0CVB848M6">Leading with AI: A Blueprint for AI-Enhanced Healthcare</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/medguard-ai">MedGuard AI</a> · <a href="https://github.com/yassineaqejjaj/CarePilot">M3aya Santé</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a></td>
+</tr>
+</table>
 
 ## How I build
 
-AI coding agents write a large share of the code in my projects. They do not decide what is built, what is accepted or what ships. Every project follows the same loop, with human control points where a mistake would be expensive.
+**Specify the outcome. Build in small steps. Review the evidence. Keep release decisions human.**
+
+I use AI coding tools throughout implementation. I own the architecture, acceptance criteria, code review and release decisions.
 
 <p align="center"><img alt="Agentic development lifecycle: intent, architecture, agent build, human review, verify, release gate, deploy, measure, with a feedback loop" src="docs/assets/agentic-lifecycle.svg"/></p>
+
+- **Specification first:** define the problem, constraints and acceptance criteria before implementation.
+- **Reviewable changes:** keep generated work small enough to inspect and explain.
+- **Evidence before release:** use tests, traces, scenario evaluations and documented limitations.
+- **Earned autonomy:** grant agents more freedom only where checks can demonstrate that their work meets the required standard.
+
+[**Agentic SDLC framework**](https://github.com/yassineaqejjaj/agentic-sdlc) — stage contracts, autonomy levels, review checklists and release templates. Working framework v0.1.
+
+<details>
+<summary>Explore the lifecycle and autonomy levels</summary>
 
 | Stage | What happens | Who decides |
 |---|---|---|
@@ -178,17 +157,49 @@ The organizing idea: **an agent earns autonomy where automated checks can prove 
 
 Irreversible actions and sensitive data are capped at L1, and any incident drops a stage by one level. The full framework, stage contracts, agent-specific risks, metrics and ready-to-use templates (`SPEC.md`, `AGENTS.md`, review checklist, release record) are in **[agentic-sdlc](https://github.com/yassineaqejjaj/agentic-sdlc)**. It is a working v0.1, not an independently validated standard.
 
-### Principles
+</details>
 
-- **Specification first.** Acceptance criteria and a written spec come before implementation, and the spec is what the agent is held to.
-- **Small steps.** Short, reviewable changes beat large generated drops that nobody can verify.
-- **Evidence over claims.** A reproducible test or a recorded evaluation counts. A confident description does not.
-- **Honest status.** Every repository states what is implemented, what is a synthetic demonstration and what is still unmeasured.
-- **Safety by design in health and education.** Synthetic data, declared limits, human approval on consequential actions, and no medical-device claims.
-- **Context is engineered.** Governed, cited and permission-aware context (the role ORBIT plays) is treated as part of the system, not as an afterthought.
+## Tools I work with
 
-### Where my own tools fit
+**AI & backend:** Python, FastAPI, LangGraph, Fastify, PostgreSQL.  
+**Product interfaces:** TypeScript, React, Next.js.  
+**Delivery & observability:** Docker, GitHub Actions, OpenTelemetry.
 
-NOVA orchestrates the plan and execution, ORBIT supplies governed context, FORGE evaluates results and TrustRail controls what agents are allowed to do. They are my attempt to make this lifecycle repeatable rather than ad hoc.
+See each repository for its exact stack, setup and current status.
 
-My interests: agentic applications, context engineering, evaluation, developer productivity and the operating model of AI-enabled teams.
+<!-- KPI-RESULTS:start -->
+## Key results
+
+<details>
+<summary>Explore reported portfolio metrics and their verification status</summary>
+
+| Project | Results |
+|---|---|
+| [DILA · Sovereign AI Platform](https://iaseen.com/work/dila-sovereign-ai) | **−60%** RAG delivery time reduction · **0.94** Answer faithfulness · **75%** Component reuse rate |
+| [Decathlon · AI-Powered Retail](https://iaseen.com/work/decathlon-ai-transformation) | **×2.6** Augmented productivity · **93%** Computer vision precision · **4 M€** Programme scope |
+| [Carrefour · Supply Chain Intelligence](https://iaseen.com/work/carrefour-ml-mlops) | **+13 pts** Fill rate improvement · **18% → 12%** Forecasting WAPE · **−35%** Forecast processing time |
+| [NOVA Suite](https://github.com/yassineaqejjaj/NOVA) | **800** Deployed users · **92%** Task success rate · **−42%** Task execution time reduction |
+| [Nova Agents](https://github.com/yassineaqejjaj/NOVA) | **86%** Task completion rate · **92%** Agent coordination success · **81%** Deliverables accepted without major revision |
+| [Nova Context (ORBIT)](https://github.com/yassineaqejjaj/ORBIT) | **99.5%** Temporal context accuracy · **91%** Context retrieval precision@5 · **−48%** Context token reduction |
+| [Nova Evals (FORGE)](https://github.com/yassineaqejjaj/FORGE) | **96%** Known regression detection rate · **89%** LLM–human judge agreement · **88%** Automated evaluation coverage |
+| [TrustRail](https://github.com/yassineaqejjaj/TrustRail) | **100%** Policy tests passed · **18 ms** P95 gateway overhead · **100%** Audit receipt generation |
+| [M3aya Santé](https://github.com/yassineaqejjaj/CarePilot) | **9/9** Care pathways covered · **94%** Workflow test success · **−35%** Administrative time reduction |
+| [TRAIL Academy](https://github.com/yassineaqejjaj/TRAIL-Academy) | **18** Learning modules · **82%** Learning completion rate · **70%** Hands-on content |
+| [MedGuard AI](https://github.com/yassineaqejjaj/medguard-ai) | **91%** AI–expert evaluation agreement · **96%** Critical issue recall · **100%** Test audit coverage |
+| [SimuLearn](https://github.com/yassineaqejjaj/SimuLearn) | **24** Simulation scenarios · **87%** Scenario completion rate · **4.3/5** User experience rating |
+| [ClassMind](https://github.com/yassineaqejjaj/ClassMind) | **0.91** Answer faithfulness · **89%** Curriculum alignment · **−40%** Lesson preparation time reduction |
+| [Fencing Intelligence](https://github.com/yassineaqejjaj/fencing-intelligence) | **91%** Event detection precision · **−60%** Video review time reduction · **3** Fencing disciplines covered |
+| LEAP | **1,500+** Professionals trained · **75+** Training sessions delivered · **4.6/5** Training satisfaction |
+| Prompt Arena | **13** Learning paths · **130** Applied challenges · **76%** Challenge success rate |
+
+_These figures are reported in the existing portfolio and repository summaries; they have not been independently verified here. The NOVA, ORBIT and FORGE case studies describe evaluation plans and mark verified results as not yet measured. Consult each project's evidence and status documentation before interpreting these figures as validated outcomes._
+<!-- KPI-RESULTS:end -->
+
+</details>
+<!-- KPI-RESULTS:end -->
+
+## Explore more
+
+[**Portfolio & contact**](https://iaseen.com) · [**All repositories**](https://github.com/yassineaqejjaj?tab=repositories) · [**Portfolio source**](https://github.com/yassineaqejjaj/iaseen)
+
+Interested in agentic AI, evaluation, context engineering, or AI product delivery? My portfolio brings together client work, projects, books and contact details.
