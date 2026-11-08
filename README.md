@@ -57,7 +57,14 @@ Three ways I turn ideas into impact.
 
 ## Agentic AI platforms
 
-<img src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/1632a9c1265886bcfb2895e82d557a8845bf402f/docs/assets/homepage/home-constellation.svg" width="1200" alt="The agentic constellation: ORBIT supplies context to NOVA; FORGE evaluates; TrustRail governs actions across the workflow."/>
+```mermaid
+flowchart LR
+    orbit["ORBIT · context, memory and provenance"] -->|"Context"| nova["NOVA · plan and coordinate"]
+    nova -->|"Traces and outcomes"| forge["FORGE · evaluate and compare"]
+    trust["TrustRail · grants, policies, approvals and receipts"] -.->|"Govern actions"| orbit
+    trust -.->|"Govern actions"| nova
+    trust -.->|"Govern actions"| forge
+```
 
 Context, coordination, evaluation and control. **ARIS** adds a standalone, mission-driven enterprise platform to this portfolio.
 
@@ -195,7 +202,17 @@ I own the architecture, acceptance criteria, code review and release decisions. 
 <details>
 <summary>View the development lifecycle</summary>
 
-<p align="center"><img alt="Agentic development lifecycle: intent, architecture, agent build, human review, verify, release gate, deploy, measure, with a feedback loop" src="docs/assets/agentic-lifecycle.svg"/></p>
+```mermaid
+flowchart LR
+    intent["1 · Intent"] --> architecture["2 · Architecture"]
+    architecture --> build["3 · Agent build"]
+    build --> review["4 · Human review"]
+    review --> verify["5 · Verify"]
+    verify --> gate["6 · Release gate"]
+    gate --> deploy["7 · Deploy"]
+    deploy --> measure["8 · Measure"]
+    measure -->|"Feedback"| intent
+```
 
 </details>
 
@@ -237,3 +254,4 @@ NOVA coordinates agents · ORBIT supplies context and memory · FORGE evaluates 
 </p>
 
 <p align="center"><sub>IASEEN · THE INTELLIGENCE UNIVERSE</sub></p>
+
