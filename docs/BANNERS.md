@@ -94,3 +94,10 @@ Space Grotesk (headings and wordmark), Inter (body), JetBrains Mono (labels). Le
 
 ![TRAIL Intelligence](https://raw.githubusercontent.com/yassineaqejjaj/trail-intelligence/main/docs/assets/github-cover.svg)
 
+## ARIS
+
+Private beta · enterprise missions, specialist agents and human approval gates.
+
+[SVG source](assets/aris-cover.svg)
+
+![ARIS — IASEEN Constellation](assets/aris-cover.svg)
