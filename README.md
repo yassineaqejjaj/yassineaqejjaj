@@ -6,14 +6,14 @@
 
 I turn AI ideas into working software: product strategy, system design, engineering, evaluation and deployment. My focus is **agentic platforms**, **trustworthy AI**, **digital health**, and **education**. I build hands-on with AI coding tools while keeping architectural decisions, review and quality checks under human control.
 
-[**Portfolio · iaseen.com**](https://iaseen.com) · [**My work**](#agentic-ai-platforms) · [**Healthcare & education**](#healthcare--education) · [**Engineering approach**](#how-i-build) · [**Agentic SDLC framework**](https://github.com/yassineaqejjaj/agentic-sdlc) · [**Books**](#the-books) · [**Technical case studies**](#technical-case-studies) · [**All repositories**](https://github.com/yassineaqejjaj?tab=repositories)
+[**Portfolio · iaseen.com**](https://iaseen.com) · [**My work**](#agentic-ai-platforms) · [**HealthTech**](#healthtech) · [**EdTech**](#edtech) · [**Sportech**](#sportech) · [**Engineering approach**](#how-i-build) · [**Agentic SDLC framework**](https://github.com/yassineaqejjaj/agentic-sdlc) · [**Books**](#the-books) · [**Technical case studies**](#technical-case-studies) · [**All repositories**](https://github.com/yassineaqejjaj?tab=repositories)
 
 ## Start here
 
 | If you are... | Go to |
 |---|---|
 | Leading an AI or engineering team | [Agentic SDLC framework](https://github.com/yassineaqejjaj/agentic-sdlc) · [How I build](#how-i-build) |
-| Working in healthcare or education | [Healthcare & education](#healthcare--education) · [The books](#the-books) |
+| Working in healthcare or education | [HealthTech](#healthtech) · [EdTech](#edtech) · [The books](#the-books) |
 | Looking for agent infrastructure | [NOVA, ORBIT, FORGE and TrustRail](#agentic-ai-platforms) |
 
 <!-- KPI-RESULTS:start -->
@@ -48,7 +48,7 @@ Two books on leading AI adoption, each paired with working code in this profile.
 <table>
 <tr>
 <td width="50%"><a href="https://www.amazon.fr/dp/B0CN5PG7LT"><img alt="Leading with AI: Embracing the Future of Education" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/book-education.svg"/></a><br/><strong>Education.</strong> <a href="https://www.amazon.fr/dp/B0CN5PG7LT">Leading with AI: Embracing the Future of Education</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/ClassMind">ClassMind</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a> · <a href="https://github.com/yassineaqejjaj/TRAIL-Academy">TRAIL Academy</a></td>
-<td width="50%"><a href="https://www.amazon.fr/dp/B0CVB848M6"><img alt="Leading with AI: A Blueprint for AI-Enhanced Healthcare" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/book-healthcare.svg"/></a><br/><strong>Healthcare.</strong> <a href="https://www.amazon.fr/dp/B0CVB848M6">Leading with AI: A Blueprint for AI-Enhanced Healthcare</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/medguard-ai">MedGuard AI</a> · <a href="https://github.com/yassineaqejjaj/CarePilot">CarePilot</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a></td>
+<td width="50%"><a href="https://www.amazon.fr/dp/B0CVB848M6"><img alt="Leading with AI: A Blueprint for AI-Enhanced Healthcare" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/book-healthcare.svg"/></a><br/><strong>Healthcare.</strong> <a href="https://www.amazon.fr/dp/B0CVB848M6">Leading with AI: A Blueprint for AI-Enhanced Healthcare</a><br/>Code in practice: <a href="https://github.com/yassineaqejjaj/medguard-ai">MedGuard AI</a> · <a href="https://github.com/yassineaqejjaj/CarePilot">M3aya Santé</a> · <a href="https://github.com/yassineaqejjaj/SimuLearn">SimuLearn</a></td>
 </tr>
 </table>
 
@@ -94,35 +94,45 @@ FORGE → evaluates and compares</pre>
 
 **[TrustRail](https://github.com/yassineaqejjaj/TrustRail) — Control over agent actions.** Defines what an AI agent may do on behalf of a person or company (grants, limits, human approvals) and records verifiable receipts. Two use cases on synthetic sandboxes (support refunds, B2B SaaS subscriptions); no real money moves. [Web preview](https://trustrail-mu.vercel.app) · [Build status](https://github.com/yassineaqejjaj/TrustRail/blob/main/docs/BUILD_STATUS.md)
 
-## Healthcare & education
+## HealthTech
 
-Real code and product interfaces, with **synthetic data and declared limits**. These are prototypes/MVPs, not cleared medical tools or approved systems for student or patient information.
+Healthcare and wellness prototypes, with **synthetic data and declared limits**. These are not cleared medical tools or approved systems for patient information.
 
 <table>
-<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/medguard-ai"><img alt="MedGuard AI" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/medguard-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/SimuLearn"><img alt="SimuLearn" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/simulearn-cover.svg"/></a></td></tr>
-<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/ClassMind"><img alt="ClassMind" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/classmind-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/CarePilot"><img alt="CarePilot" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/carepilot-cover.svg"/></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/medguard-ai"><img alt="MedGuard AI" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/medguard-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/CarePilot"><img alt="M3aya Santé" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/carepilot-cover.svg"/></a></td></tr>
 <tr><td width="50%"><img alt="Vita (private)" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/vita-cover.svg"/></td></tr>
 </table>
 
 | Project | What it does | Evidence / status |
 |---|---|---|
 | **[MedGuard AI](https://github.com/yassineaqejjaj/medguard-ai)** | Evaluates healthcare AI applications, records human review and blocks failed release criteria. | [Screenshots & synthetic test workflow](https://github.com/yassineaqejjaj/medguard-ai#see-it-work) · MVP |
-| **[SimuLearn](https://github.com/yassineaqejjaj/SimuLearn)** | Patient conversation practice and cited skills feedback for healthcare trainees. | [Product screens](https://github.com/yassineaqejjaj/SimuLearn#23-parcours-apprenant) · Mock-mode MVP; live integrations not yet validated |
+| **[M3aya Santé](https://github.com/yassineaqejjaj/CarePilot)** | Administrative patient-journey coordination with suggested actions awaiting human approval. | [Product screens](https://github.com/yassineaqejjaj/CarePilot#the-screens) · Local demo only |
 | **Vita** | AI wellness and prevention coach for iOS and Android: weekly plans from phone and wearable data, with safety guardrails. | Private repository · Complete prototype, not yet launched; not a medical device |
-| **[ClassMind](https://github.com/yassineaqejjaj/ClassMind)** | Teacher-reviewed learning analytics and AI-supported mathematics exercises. | [Product screens](https://github.com/yassineaqejjaj/ClassMind#captures-décran) · French collège MVP, fictitious data |
-| **[CarePilot](https://github.com/yassineaqejjaj/CarePilot)** | Administrative patient-journey coordination with suggested actions awaiting human approval. | [Product screens](https://github.com/yassineaqejjaj/CarePilot#the-screens) · Local demo only |
 
-## Other product builds
+## EdTech
+
+AI-supported learning, simulation and practical skills development, with human review and documented limits.
 
 <table>
-<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/TRAIL-Academy"><img alt="TRAIL Academy" src="https://raw.githubusercontent.com/yassineaqejjaj/TRAIL-Academy/main/docs/assets/github-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/fencing-intelligence"><img alt="Fencing Intelligence" src="https://raw.githubusercontent.com/yassineaqejjaj/fencing-intelligence/main/docs/assets/github-cover.svg"/></a></td></tr>
-<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/trail-intelligence"><img alt="TRAIL Intelligence" src="https://raw.githubusercontent.com/yassineaqejjaj/trail-intelligence/main/docs/assets/github-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/apex-f1-pitwall"><img alt="APEX F1 Pitwall" src="https://raw.githubusercontent.com/yassineaqejjaj/apex-f1-pitwall/main/docs/assets/github-cover.svg"/></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/SimuLearn"><img alt="SimuLearn" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/simulearn-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/ClassMind"><img alt="ClassMind" src="https://raw.githubusercontent.com/yassineaqejjaj/yassineaqejjaj/e5d3e0e4665b2defcf844780993496d077f535cd/docs/assets/classmind-cover.svg"/></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/TRAIL-Academy"><img alt="TRAIL Academy" src="https://raw.githubusercontent.com/yassineaqejjaj/TRAIL-Academy/main/docs/assets/github-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/trail-intelligence"><img alt="TRAIL Intelligence" src="https://raw.githubusercontent.com/yassineaqejjaj/trail-intelligence/main/docs/assets/github-cover.svg"/></a></td></tr>
 </table>
 
-| Product | Purpose | Access |
+| Project | What it does | Evidence / status |
 |---|---|---|
-| **[TRAIL Intelligence](https://github.com/yassineaqejjaj/trail-intelligence)** | AI skills intelligence: practice lab, evidence-linked assessments, human review and a verified skills passport, with privacy-preserving team analytics | [Web app](https://trail-intelligence.vercel.app) · In production; the AI evaluator is a keyword heuristic until an LLM is connected, so scores are provisional and uncalibrated |
+| **[SimuLearn](https://github.com/yassineaqejjaj/SimuLearn)** | Patient conversation practice and cited skills feedback for healthcare trainees. | [Product screens](https://github.com/yassineaqejjaj/SimuLearn#23-parcours-apprenant) · Mock-mode MVP; live integrations not yet validated |
+| **[ClassMind](https://github.com/yassineaqejjaj/ClassMind)** | Teacher-reviewed learning analytics and AI-supported mathematics exercises. | [Product screens](https://github.com/yassineaqejjaj/ClassMind#captures-décran) · French collège MVP, fictitious data |
 | **[TRAIL Academy](https://github.com/yassineaqejjaj/TRAIL-Academy)** | Professional AI learning platform, modules, assessments and course commerce | In development; external integrations and live payments not validated |
+| **[TRAIL Intelligence](https://github.com/yassineaqejjaj/trail-intelligence)** | AI skills intelligence: practice lab, evidence-linked assessments, human review and a verified skills passport, with privacy-preserving team analytics | [Web app](https://trail-intelligence.vercel.app) · In production; the AI evaluator is a keyword heuristic until an LLM is connected, so scores are provisional and uncalibrated |
+
+## Sportech
+
+<table>
+<tr><td width="50%"><a href="https://github.com/yassineaqejjaj/fencing-intelligence"><img alt="Fencing Intelligence" src="https://raw.githubusercontent.com/yassineaqejjaj/fencing-intelligence/main/docs/assets/github-cover.svg"/></a></td><td width="50%"><a href="https://github.com/yassineaqejjaj/apex-f1-pitwall"><img alt="APEX F1 Pitwall" src="https://raw.githubusercontent.com/yassineaqejjaj/apex-f1-pitwall/main/docs/assets/github-cover.svg"/></a></td></tr>
+</table>
+
+| Project | What it does | Evidence / status |
+|---|---|---|
 | **[Fencing Intelligence](https://github.com/yassineaqejjaj/fencing-intelligence)** | Fencing video annotation and evidence-based performance analysis | [Web preview](https://fencing-intelligence.vercel.app) · Experimental heuristics |
 | **[APEX F1 Pitwall](https://github.com/yassineaqejjaj/apex-f1-pitwall)** | Race telemetry, replay, team radio and scenario-based strategy modelling | [Web preview](https://apex-f1-pitwall.vercel.app) · Estimates, not race predictions |
 
