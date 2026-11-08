@@ -101,3 +101,9 @@ Private beta · enterprise missions, specialist agents and human approval gates.
 [SVG source](assets/aris-cover.svg)
 
 ![ARIS — IASEEN Constellation](assets/aris-cover.svg)
+
+## SYMBIOSE
+
+[Book on Amazon](https://www.amazon.fr/dp/B0G48PY7S5) · [SVG source](assets/book-symbiose.svg)
+
+![SYMBIOSE — Yassine Aqejjaj](assets/book-symbiose.svg)
