@@ -12,6 +12,25 @@
   <a href="mailto:yassine.aqejjaj@gmail.com"><strong>Get in touch →</strong></a>
 </p>
 
+## Product constellation
+
+<p align="center">
+  <a href="docs/assets/homepage/product-constellation.png">
+    <img src="docs/assets/homepage/product-constellation.png" width="1536" alt="IASEEN Product Constellation. Agentic AI: NOVA, ORBIT, ARIS. Trust and engineering: FORGE, TrustRail, AI SDLC. HealthTech: MedGuard AI, M3aya Santé, Vita. EdTech: SimuLearn, ClassMind, TRAIL Academy, TRAIL Intelligence, Prompt Arena, LEAP. Sportech: Fencing Intelligence, APEX F1 Pitwall. Publications: SYMBIOSE and Leading with AI, Education and Healthcare."/>
+  </a>
+</p>
+
+<p align="center"><sub>Thematic connections across products, platforms, frameworks, programmes and books. Click the image to explore it at full size.</sub></p>
+
+<p align="center">
+<a href="#agentic-ai-platforms">Agentic AI</a> &nbsp;·&nbsp;
+<a href="#how-i-build">Trust &amp; engineering</a> &nbsp;·&nbsp;
+<a href="#healthtech">HealthTech</a> &nbsp;·&nbsp;
+<a href="#edtech">EdTech</a> &nbsp;·&nbsp;
+<a href="#sportech">Sportech</a> &nbsp;·&nbsp;
+<a href="#the-books">Publications</a>
+</p>
+
 <table>
 <tr>
 <td width="33%" align="center"><sub>01 / THE WORK</sub><br/><a href="#featured-work"><strong>Lead · Build · Apply ↓</strong></a></td>
