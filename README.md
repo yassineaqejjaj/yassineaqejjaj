@@ -193,7 +193,6 @@ See each repository for its exact stack, setup and current status.
 | Prompt Arena | **13** Learning paths · **130** Applied challenges · **76%** Challenge success rate |
 
 _These figures are reported in the existing portfolio and repository summaries; they have not been independently verified here. The NOVA, ORBIT and FORGE case studies describe evaluation plans and mark verified results as not yet measured. Consult each project's evidence and status documentation before interpreting these figures as validated outcomes._
-<!-- KPI-RESULTS:end -->
 
 </details>
 <!-- KPI-RESULTS:end -->
